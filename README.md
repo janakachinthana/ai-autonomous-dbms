@@ -2,6 +2,37 @@
 
 This project implements an AI-driven autonomous database management system with self-tuning, predictive query optimization, and intelligent indexing. See `docs/architecture.md` for details.
 
+## Project Structure
+
+```
+├── docs/
+│   └── architecture.md
+├── requirements.txt
+├── src/
+│   ├── config.py
+│   ├── intelligent_indexing/
+│   │   ├── index_manager.py
+│   │   └── main.py
+│   ├── query_optimization/
+│   │   ├── main.py
+│   │   └── query_optimizer.py
+│   ├── security/
+│   │   ├── anomaly_detector.py
+│   │   └── main.py
+│   └── self_tuning/
+│       ├── main.py
+│       ├── parameter_tuner.py
+│       └── workload_monitor.py
+├── tests/
+│   └── integration/
+│       ├── test_intelligent_indexing.py
+│       ├── test_placeholder.py
+│       ├── test_query_optimization.py
+│       ├── test_security.py
+│       └── test_self_tuning.py
+└── README.md
+```
+
 ## Project Setup
 
 1. **Clone the repository:**
