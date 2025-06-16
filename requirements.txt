@@ -1,0 +1,10 @@
+# Core dependencies for AI-Driven Autonomous Database Management System
+scikit-learn
+pandas
+numpy
+tensorflow
+# or use pytorch instead of tensorflow if preferred
+# torch
+psycopg2-binary # PostgreSQL connector
+mysql-connector-python # MySQL connector
+pymongo # MongoDB connector
