@@ -127,3 +127,45 @@ Each summary will show a list of tasks and their descriptions, providing a clear
 ## Jira Integration
 
 Jira tasks have been created and linked for all new features related to action tracking and reporting. Reference the relevant ticket in your commit messages for traceability.
+
+## Troubleshooting: SQL Server Connection Errors
+
+If you encounter an error like:
+
+```
+[Microsoft][ODBC Driver 17 for SQL Server]TCP Provider: No connection could be made because the target machine actively refused it. (10061)
+```
+
+Follow these steps to resolve it:
+
+1. **Ensure SQL Server is running**
+   - Open SQL Server Configuration Manager and confirm your SQL Server instance is started.
+
+2. **Enable TCP/IP**
+   - In SQL Server Configuration Manager, go to `SQL Server Network Configuration > Protocols for [YourInstance]`.
+   - Make sure `TCP/IP` is enabled. Restart the SQL Server service if you change this.
+
+3. **Check Port Configuration**
+   - In the TCP/IP properties, on the `IP Addresses` tab, ensure `TCP Port` is set to `1433` (or your configured port) for all relevant IPs (especially IPAll).
+   - Restart the SQL Server service after making changes.
+
+4. **Allow Port Through Firewall**
+   - Make sure Windows Firewall or any other firewall allows inbound connections on port `1433`.
+
+5. **Check SQL Server Binding**
+   - In the TCP/IP properties, ensure at least one IP address (like IP1 or IPAll) is set to `Enabled=Yes` and has the correct port.
+
+6. **Instance Name**
+   - If using a named instance, connect using `localhost\\YourInstanceName` and ensure the SQL Server Browser service is running.
+
+7. **Test with SQL Server Management Studio (SSMS)**
+   - Try connecting with SSMS using the same host, port, username, and password. If SSMS cannot connect, the issue is with SQL Server/network, not your code.
+
+8. **Check Connection String**
+   - Your connection string should look like:
+     ```
+     DRIVER={ODBC Driver 17 for SQL Server};SERVER=127.0.0.1,1433;DATABASE=YourDB;UID=YourUser;PWD=YourPassword
+     ```
+   - Make sure the driver name matches exactly what is installed.
+
+If you still have issues, review the error message and check your configuration again. For more help, see the SQL Server documentation or contact your database administrator.
