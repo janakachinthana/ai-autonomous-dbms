@@ -6,12 +6,25 @@ This project implements an AI-driven autonomous database management system with 
 
 ```
 ├── docs/
-│   ├── ADBMS_Research_Document.docx
-│   ├── architecture.md
-│   └── generate_adbms_doc.py
-├── requirements.txt
+│   ├── ADBMS_Code_Explanations.docx         # Combined Word doc of code explanations
+│   ├── ADBMS_Research_Document.docx         # Research documentation
+│   ├── architecture.md                      # System architecture overview
+│   ├── code_explanation_report.md           # High-level code explanation summary
+│   ├── convert_to_word.ipynb                # Notebook to convert explanations to Word
+│   └── explanation_desc/                    # Line-by-line code explanations (Markdown)
+│       ├── anomaly_detector.py.md
+│       ├── config.py.md
+│       ├── index_manager.py.md
+│       ├── intelligent_indexing_main.py.md
+│       ├── main.py.md
+│       ├── parameter_tuner.py.md
+│       ├── query_optimization_main.py.md
+│       ├── query_optimizer.py.md
+│       ├── security_main.py.md
+│       └── workload_monitor.py.md
+├── requirements.txt                         # Python dependencies
 ├── src/
-│   ├── config.py
+│   ├── config.py                            # DB config and connection string
 │   ├── intelligent_indexing/
 │   │   ├── index_manager.py
 │   │   └── main.py
@@ -32,8 +45,14 @@ This project implements an AI-driven autonomous database management system with 
 │       ├── test_query_optimization.py
 │       ├── test_security.py
 │       └── test_self_tuning.py
-└── README.md
+├── .gitignore
+├── README.md
+└── run_all_modules.py (if present)
 ```
+
+- All main code explanations are in `docs/explanation_desc` (Markdown) and combined in `docs/ADBMS_Code_Explanations.docx`.
+- See `docs/architecture.md` for system design.
+- See `docs/code_explanation_report.md` for a high-level summary.
 
 ## Project Setup
 
