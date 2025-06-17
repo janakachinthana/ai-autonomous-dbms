@@ -1,6 +1,7 @@
 import pyodbc
 import sys
 import os
+import json
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from config import DB_CONNECTION_STRING
 
@@ -11,6 +12,21 @@ class QueryOptimizer:
     def __init__(self):
         self.conn = pyodbc.connect(DB_CONNECTION_STRING)
         self.applied_tasks = []  # Track applied tasks
+
+    def _log_task(self, task):
+        log_path = os.path.join(os.path.dirname(__file__), '../../logs/query_optimizer.json')
+        log_path = os.path.abspath(log_path)
+        try:
+            if os.path.exists(log_path):
+                with open(log_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+            else:
+                data = []
+        except Exception:
+            data = []
+        data.append(task)
+        with open(log_path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=2)
 
     def analyze_query(self, query):
         # Use SQL Server's query plan to extract features
@@ -30,16 +46,20 @@ class QueryOptimizer:
                 'estimated_rows': sum(int(row[7]) for row in plan if row[7].isdigit()),
                 'has_join': any('JOIN' in str(row) for row in plan)
             }
-            self.applied_tasks.append({
+            task = {
                 'task': 'Analyze query',
                 'description': f"Query: {query}, Features: {features}"
-            })
+            }
+            self.applied_tasks.append(task)
+            self._log_task(task)
             return features
         except Exception as e:
-            self.applied_tasks.append({
+            task = {
                 'task': 'Analyze query',
                 'description': f"Query: {query}, Error: {e}"
-            })
+            }
+            self.applied_tasks.append(task)
+            self._log_task(task)
             return {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': str(e)}
 
     def predict_plan(self, features):
@@ -50,10 +70,12 @@ class QueryOptimizer:
             plan = 'Index Scan Plan'
         else:
             plan = 'Sequential Scan Plan'
-        self.applied_tasks.append({
+        task = {
             'task': 'Predict plan',
             'description': f"Features: {features}, Predicted Plan: {plan}"
-        })
+        }
+        self.applied_tasks.append(task)
+        self._log_task(task)
         return plan
 
     def get_applied_tasks_summary(self):

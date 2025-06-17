@@ -2,6 +2,7 @@ import pyodbc
 import random
 import sys
 import os
+import json
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from config import DB_CONNECTION_STRING
 
@@ -13,7 +14,22 @@ class WorkloadMonitor:
         self.conn = pyodbc.connect(DB_CONNECTION_STRING)
         self.applied_tasks = []  # Track applied tasks
 
-    def get_metrics(self):
+    def _log_task(self, task):
+        log_path = os.path.join(os.path.dirname(__file__), '../../logs/workload_monitor.json')
+        log_path = os.path.abspath(log_path)
+        try:
+            if os.path.exists(log_path):
+                with open(log_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+            else:
+                data = []
+        except Exception:
+            data = []
+        data.append(task)
+        with open(log_path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=2)
+
+    def get_metrics(self, table=None):
         # Example: Query sys.dm_os_performance_counters or similar for real metrics
         cursor = self.conn.cursor()
         try:
@@ -28,11 +44,13 @@ class WorkloadMonitor:
             'cache_hit_ratio': cache_hit_ratio,
             'query_throughput': random.randint(100, 1000)
         }
-        # Log the metrics retrieval as a task
-        self.applied_tasks.append({
+        task = {
             'task': 'Retrieve workload metrics',
+            'table': table if table else 'N/A',
             'description': f"Metrics collected: {metrics}"
-        })
+        }
+        self.applied_tasks.append(task)
+        self._log_task(task)
         return metrics
 
     def get_applied_tasks_summary(self):
