@@ -3,7 +3,7 @@
 import os
 
 DB_TYPE = os.getenv("DB_TYPE", "mssql")  # Options: postgresql, mysql, mongodb, mssql
-DB_HOST = os.getenv("DB_HOST", "localhost\\MSSQLSERVER")  # Default for MSSQL
+DB_HOST = os.getenv("DB_HOST", "localhost")  # Default for MSSQL
 DB_PORT = int(os.getenv("DB_PORT", 1433))  # Default port for MSSQL
 DB_USER = os.getenv("DB_USER", "sa")
 DB_PASSWORD = os.getenv("DB_PASSWORD", "j2ig8#2jl8l2x#")
