@@ -128,6 +128,8 @@ Each summary will show a list of tasks and their descriptions, providing a clear
 
 Jira tasks have been created and linked for all new features related to action tracking and reporting. Reference the relevant ticket in your commit messages for traceability.
 
+**Note:** The Jira task documentation file `docs/jira_tasks_action_auditing.md` has been removed from the project.
+
 ## Troubleshooting: SQL Server Connection Errors
 
 If you encounter an error like:
