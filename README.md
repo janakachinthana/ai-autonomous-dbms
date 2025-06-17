@@ -1,12 +1,15 @@
 # AI-Driven Autonomous Database Management System (ADBMS)
 
-This project implements an AI-driven autonomous database management system with self-tuning, predictive query optimization, and intelligent indexing. See `docs/architecture.md` for details.
+This project implements an AI-driven autonomous database management system with self-tuning, predictive query optimization, intelligent indexing, and security/anomaly detection. See `docs/architecture.md` for details.
 
 ## Project Structure
 
 ```
 ├── docs/
-│   └── architecture.md
+│   ├── ADBMS_Research_Document.docx
+│   ├── architecture.md
+│   ├── generate_adbms_doc.py
+│   └── jira_tasks_action_auditing.md
 ├── requirements.txt
 ├── src/
 │   ├── config.py
@@ -49,6 +52,19 @@ This project implements an AI-driven autonomous database management system with 
    ```powershell
    pip install -r requirements.txt
    ```
+
+## Database Configuration
+
+Update `src/config.py` with your database details or use environment variables:
+```python
+DB_TYPE = "mssql"  # Options: postgresql, mysql, mongodb, mssql
+DB_HOST = "localhost"
+DB_PORT = 1433  # Default port for MSSQL
+DB_USER = "sa"
+DB_PASSWORD = "your_password"
+DB_NAME = "your_db_name"
+DB_DRIVER = "ODBC Driver 17 for SQL Server"
+```
 
 ## How to Run Each Module
 
@@ -107,20 +123,6 @@ print(param_tuner.get_applied_tasks_summary())
 ```
 
 Each summary will show a list of tasks and their descriptions, providing a clear audit trail of what was applied to the database during execution.
-
-## Database Configuration
-
-The system now supports real MS SQL Server connections. Update `src/config.py` with your database details or use environment variables for deployment:
-
-```python
-DB_TYPE = "mssql"  # Options: postgresql, mysql, mongodb, mssql
-DB_HOST = "localhost"
-DB_PORT = 1433  # Default port for MSSQL
-DB_USER = "sa"
-DB_PASSWORD = "your_password"
-DB_NAME = "your_db_name"
-DB_DRIVER = "ODBC Driver 17 for SQL Server"
-```
 
 ## Jira Integration
 
