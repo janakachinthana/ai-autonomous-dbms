@@ -1,15 +1,22 @@
+import pyodbc
+from src.config import DB_HOST, DB_PORT, DB_USER, DB_PASSWORD, DB_NAME, DB_DRIVER
+
 class ParameterTuner:
     """
-    Simulates dynamic adjustment of database parameters based on metrics.
+    Dynamic adjustment of database parameters based on metrics, using real MS SQL connection.
     """
     def __init__(self):
+        self.conn = pyodbc.connect(
+            f"DRIVER={{{DB_DRIVER}}};SERVER={DB_HOST},{DB_PORT};DATABASE={DB_NAME};UID={DB_USER};PWD={DB_PASSWORD}")
         self.parameters = {
             'buffer_size': 1024,  # MB
             'cache_policy': 'LRU',
         }
+        self.applied_tasks = []  # Track applied tasks
 
     def tune(self, metrics):
         # Example: Adjust buffer size based on CPU and memory usage
+        old_params = self.parameters.copy()
         if metrics['cpu_usage'] > 80 or metrics['memory_usage'] > 7000:
             self.parameters['buffer_size'] = max(512, self.parameters['buffer_size'] - 128)
         elif metrics['cpu_usage'] < 30 and metrics['memory_usage'] < 4000:
@@ -19,4 +26,16 @@ class ParameterTuner:
             self.parameters['cache_policy'] = 'LFU'
         else:
             self.parameters['cache_policy'] = 'LRU'
+        # Optionally, apply tuning to the real database (customize as needed)
+        # cursor = self.conn.cursor()
+        # cursor.execute("ALTER DATABASE CURRENT SET ...")
+        # self.conn.commit()
+        # Log the tuning as a task
+        self.applied_tasks.append({
+            'task': 'Tune database parameters',
+            'description': f"Old: {old_params}, New: {self.parameters}, Metrics: {metrics}"
+        })
         return self.parameters
+
+    def get_applied_tasks_summary(self):
+        return self.applied_tasks

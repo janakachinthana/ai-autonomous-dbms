@@ -1,23 +1,64 @@
 import random
+import pyodbc
+from src.config import DB_HOST, DB_PORT, DB_USER, DB_PASSWORD, DB_NAME, DB_DRIVER
 
 class IndexManager:
     """
-    Simulates intelligent index management using mock ML logic.
+    Intelligent index management using real MS SQL connection.
     """
     def __init__(self):
-        self.indexes = set()
+        self.conn = pyodbc.connect(
+            f"DRIVER={{{DB_DRIVER}}};SERVER={DB_HOST},{DB_PORT};DATABASE={DB_NAME};UID={DB_USER};PWD={DB_PASSWORD}")
+        self.indexes = self._fetch_existing_indexes()
+        self.applied_tasks = []  # Track applied tasks
+
+    def _fetch_existing_indexes(self):
+        indexes = set()
+        cursor = self.conn.cursor()
+        cursor.execute("SELECT name FROM sys.indexes WHERE object_id > 100")
+        for row in cursor.fetchall():
+            indexes.add(row[0])
+        return indexes
 
     def monitor_access(self):
-        # Simulate access patterns
-        return random.choice(['users.age', 'orders.date', 'logs.timestamp'])
+        # Example: randomly select a column from real tables (customize as needed)
+        columns = ['users.age', 'orders.date', 'logs.timestamp']
+        column = random.choice(columns)
+        self.applied_tasks.append({
+            'task': 'Monitor access',
+            'description': f"Monitored column: {column}"
+        })
+        return column
 
     def recommend_index(self, column):
-        # Simulate ML-based recommendation
-        if column not in self.indexes:
-            return f"CREATE INDEX ON {column}"
+        # Recommend index if not exists (simulate ML logic)
+        index_name = f"idx_{column.replace('.', '_')}"
+        if index_name not in self.indexes:
+            recommendation = f"CREATE INDEX {index_name} ON {column.split('.')[0]}({column.split('.')[1]})"
         else:
-            return f"Index on {column} already exists"
+            recommendation = f"Index on {column} already exists"
+        self.applied_tasks.append({
+            'task': 'Recommend index',
+            'description': f"Column: {column}, Recommendation: {recommendation}"
+        })
+        return recommendation
 
     def apply_index(self, column):
-        self.indexes.add(column)
-        return f"Index on {column} applied"
+        index_name = f"idx_{column.replace('.', '_')}"
+        table, col = column.split('.')
+        cursor = self.conn.cursor()
+        try:
+            cursor.execute(f"CREATE INDEX {index_name} ON {table}({col})")
+            self.conn.commit()
+            self.indexes.add(index_name)
+            result = f"Index on {column} applied"
+        except Exception as e:
+            result = f"Failed to apply index: {e}"
+        self.applied_tasks.append({
+            'task': 'Apply index',
+            'description': f"Column: {column}, Result: {result}"
+        })
+        return result
+
+    def get_applied_tasks_summary(self):
+        return self.applied_tasks

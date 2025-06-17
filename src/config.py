@@ -1,12 +1,14 @@
 # Database connection configuration template
 
-DB_TYPE = "mssql"  # Options: postgresql, mysql, mongodb, mssql
-DB_HOST = "localhost"
-DB_PORT = 1433  # Default port for MSSQL
-DB_USER = "your_username"
-DB_PASSWORD = "your_password"
-DB_NAME = "your_database"
+import os
+
+DB_TYPE = os.getenv("DB_TYPE", "mssql")  # Options: postgresql, mysql, mongodb, mssql
+DB_HOST = os.getenv("DB_HOST", "localhost")
+DB_PORT = int(os.getenv("DB_PORT", 1433))  # Default port for MSSQL
+DB_USER = os.getenv("DB_USER", "sa")
+DB_PASSWORD = os.getenv("DB_PASSWORD", "")
+DB_NAME = os.getenv("DB_NAME", "IMBeta_New")
 
 # Add additional configuration as needed for your environment
 # Example: driver for MSSQL
-DB_DRIVER = "ODBC Driver 17 for SQL Server"
+DB_DRIVER = os.getenv("DB_DRIVER", "ODBC Driver 17 for SQL Server")
