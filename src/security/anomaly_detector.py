@@ -2,15 +2,14 @@ import pyodbc
 import sys
 import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from config import DB_HOST, DB_PORT, DB_USER, DB_PASSWORD, DB_NAME, DB_DRIVER
+from config import DB_CONNECTION_STRING
 
 class AnomalyDetector:
     """
     AI-based anomaly detection for security monitoring using real MS SQL logs.
     """
     def __init__(self):
-        self.conn = pyodbc.connect(
-            f"DRIVER={{{DB_DRIVER}}};SERVER={DB_HOST},{DB_PORT};DATABASE={DB_NAME};UID={DB_USER};PWD={DB_PASSWORD}")
+        self.conn = pyodbc.connect(DB_CONNECTION_STRING)
         self.applied_tasks = []  # Track applied tasks
 
     def detect(self, log_entry):
