@@ -8,8 +8,7 @@ This project implements an AI-driven autonomous database management system with 
 ├── docs/
 │   ├── ADBMS_Research_Document.docx
 │   ├── architecture.md
-│   ├── generate_adbms_doc.py
-│   └── jira_tasks_action_auditing.md
+│   └── generate_adbms_doc.py
 ├── requirements.txt
 ├── src/
 │   ├── config.py
@@ -123,12 +122,6 @@ print(param_tuner.get_applied_tasks_summary())
 ```
 
 Each summary will show a list of tasks and their descriptions, providing a clear audit trail of what was applied to the database during execution.
-
-## Jira Integration
-
-Jira tasks have been created and linked for all new features related to action tracking and reporting. Reference the relevant ticket in your commit messages for traceability.
-
-**Note:** The Jira task documentation file `docs/jira_tasks_action_auditing.md` has been removed from the project.
 
 ## Troubleshooting: SQL Server Connection Errors
 
