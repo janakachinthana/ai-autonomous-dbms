@@ -71,8 +71,7 @@ coverage.xml
 *.db
 *.sqlite3
 
-# Office files
-*.docx
+
 
 # System files
 .DS_Store
@@ -101,5 +100,3 @@ Thumbs.db
 
 # Ignore generated scripts
 run_all_modules.py
-
-docs/ADBMS_Research_Document.docx

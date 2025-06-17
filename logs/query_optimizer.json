@@ -8374,5 +8374,245 @@
   {
     "task": "Predict plan",
     "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeEmail, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:58:50.996041"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:58:51.011079"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.InspectionFrequency, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:58:51.304032"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:58:51.319040"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportField_17, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:58:51.983022"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:58:51.998080"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AppInstallationLog, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:58:52.491267"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:58:52.506269"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ShortUrl, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:58:52.949856"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:58:52.973383"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportItem_17, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:58:53.798141"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:58:53.813141"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReadyForIntegration, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:58:54.251560"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:58:54.267296"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.CleanUpFolderLogging, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:58:54.697404"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:58:54.718385"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Inspection, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:58:57.876469"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:58:57.892464"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportItemComment_17, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:58:58.189132"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:58:58.205244"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantReportTinyLink, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:58:58.675848"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:58:58.691850"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AIFeedBack, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:58:59.497190"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:58:59.519189"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AppTrainings, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:58:59.896217"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:58:59.918165"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportPhoto_17, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:59:00.900550"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:59:00.921587"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyPetPhoto, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:59:01.411157"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:59:01.427274"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmailTracking, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:59:01.857825"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:59:01.885434"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.FormattedField, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:59:02.041992"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:59:02.058015"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportPhotoComment_17, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:59:02.491370"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:59:02.517435"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PSUser, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:59:03.317001"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:59:03.332002"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AppTrainingType, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:59:03.524233"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:59:03.539244"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ServerMonitoringLogs, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:59:04.138838"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:59:04.151942"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EntityToFix, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:59:04.403549"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:59:04.424428"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AIFeedBackSectionType, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:59:04.654954"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:59:04.669516"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmailChecked, Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')",
+    "timestamp": "2025-06-17T18:59:06.349242"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': \"('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The SET SHOWPLAN statements must be the only statements in the batch. (1067) (SQLExecDirectW)')\"}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-06-17T18:59:06.364252"
   }
 ]

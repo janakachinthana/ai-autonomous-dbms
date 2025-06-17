@@ -8,3 +8,6 @@ tensorflow
 psycopg2-binary # PostgreSQL connector
 mysql-connector-python # MySQL connector
 pymongo # MongoDB connector
+matplotlib
+python-docx
+jupyter

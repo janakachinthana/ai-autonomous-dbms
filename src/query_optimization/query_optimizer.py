@@ -2,6 +2,7 @@ import pyodbc
 import sys
 import os
 import json
+import datetime
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from config import DB_CONNECTION_STRING
 
@@ -24,6 +25,7 @@ class QueryOptimizer:
                 data = []
         except Exception:
             data = []
+        task['timestamp'] = datetime.datetime.now().isoformat()
         data.append(task)
         with open(log_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2)

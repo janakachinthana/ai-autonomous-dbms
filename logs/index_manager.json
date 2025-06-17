@@ -51638,5 +51638,1120 @@
   {
     "task": "Recommend index",
     "description": "Column: ReportItemComment.Value, Recommendation: CREATE INDEX idx_ReportItemComment_Value ON ReportItemComment(Value)"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: OfficeEmail.OfficeEmailID, Recommendation: Index on OfficeEmail.OfficeEmailID already exists",
+    "timestamp": "2025-06-17T18:58:50.785675"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: OfficeEmail.OfficeID, Recommendation: Index on OfficeEmail.OfficeID already exists",
+    "timestamp": "2025-06-17T18:58:50.844679"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: OfficeEmail.FullName, Recommendation: Index on OfficeEmail.FullName already exists",
+    "timestamp": "2025-06-17T18:58:50.902189"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: OfficeEmail.Email, Recommendation: Index on OfficeEmail.Email already exists",
+    "timestamp": "2025-06-17T18:58:50.958957"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: InspectionFrequency.InspectionFrequencyID, Recommendation: Index on InspectionFrequency.InspectionFrequencyID already exists",
+    "timestamp": "2025-06-17T18:58:51.085098"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: InspectionFrequency.Name, Recommendation: Index on InspectionFrequency.Name already exists",
+    "timestamp": "2025-06-17T18:58:51.139229"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: InspectionFrequency.Months, Recommendation: Index on InspectionFrequency.Months already exists",
+    "timestamp": "2025-06-17T18:58:51.199198"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: InspectionFrequency.RestName, Recommendation: Index on InspectionFrequency.RestName already exists",
+    "timestamp": "2025-06-17T18:58:51.262033"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportField_17.ReportFieldID, Recommendation: Index on ReportField_17.ReportFieldID already exists",
+    "timestamp": "2025-06-17T18:58:51.418890"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportField_17.ReportItemID, Recommendation: Index on ReportField_17.ReportItemID already exists",
+    "timestamp": "2025-06-17T18:58:51.471716"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportField_17.DisplayRank, Recommendation: Index on ReportField_17.DisplayRank already exists",
+    "timestamp": "2025-06-17T18:58:51.532739"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportField_17.OmitIfEmpty, Recommendation: Index on ReportField_17.OmitIfEmpty already exists",
+    "timestamp": "2025-06-17T18:58:51.592626"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportField_17.Name, Recommendation: Index on ReportField_17.Name already exists",
+    "timestamp": "2025-06-17T18:58:51.649428"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportField_17.Value, Recommendation: Index on ReportField_17.Value already exists",
+    "timestamp": "2025-06-17T18:58:51.708538"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportField_17.DateCreated, Recommendation: Index on ReportField_17.DateCreated already exists",
+    "timestamp": "2025-06-17T18:58:51.765392"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportField_17.DateModified, Recommendation: Index on ReportField_17.DateModified already exists",
+    "timestamp": "2025-06-17T18:58:51.825395"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportField_17.UiID, Recommendation: Index on ReportField_17.UiID already exists",
+    "timestamp": "2025-06-17T18:58:51.882248"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportField_17.DisplayOrder, Recommendation: Index on ReportField_17.DisplayOrder already exists",
+    "timestamp": "2025-06-17T18:58:51.942334"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppInstallationLog.AppInstallationLogId, Recommendation: Index on AppInstallationLog.AppInstallationLogId already exists",
+    "timestamp": "2025-06-17T18:58:52.100071"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppInstallationLog.UserId, Recommendation: Index on AppInstallationLog.UserId already exists",
+    "timestamp": "2025-06-17T18:58:52.156880"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppInstallationLog.Network, Recommendation: Index on AppInstallationLog.Network already exists",
+    "timestamp": "2025-06-17T18:58:52.214925"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppInstallationLog.Lat, Recommendation: Index on AppInstallationLog.Lat already exists",
+    "timestamp": "2025-06-17T18:58:52.274775"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppInstallationLog.Long, Recommendation: Index on AppInstallationLog.Long already exists",
+    "timestamp": "2025-06-17T18:58:52.331769"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppInstallationLog.DeviceName, Recommendation: Index on AppInstallationLog.DeviceName already exists",
+    "timestamp": "2025-06-17T18:58:52.392525"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppInstallationLog.DateCreated, Recommendation: Index on AppInstallationLog.DateCreated already exists",
+    "timestamp": "2025-06-17T18:58:52.448749"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ShortUrl.ShortUrlID, Recommendation: Index on ShortUrl.ShortUrlID already exists",
+    "timestamp": "2025-06-17T18:58:52.603013"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ShortUrl.TheGuid, Recommendation: Index on ShortUrl.TheGuid already exists",
+    "timestamp": "2025-06-17T18:58:52.664431"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ShortUrl.Url, Recommendation: Index on ShortUrl.Url already exists",
+    "timestamp": "2025-06-17T18:58:52.728446"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ShortUrl.SubGuid, Recommendation: Index on ShortUrl.SubGuid already exists",
+    "timestamp": "2025-06-17T18:58:52.787965"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ShortUrl.DateCreated, Recommendation: Index on ShortUrl.DateCreated already exists",
+    "timestamp": "2025-06-17T18:58:52.846220"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ShortUrl.LastVisit, Recommendation: Index on ShortUrl.LastVisit already exists",
+    "timestamp": "2025-06-17T18:58:52.905838"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItem_17.ReportItemID, Recommendation: Index on ReportItem_17.ReportItemID already exists",
+    "timestamp": "2025-06-17T18:58:53.108055"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItem_17.ReportSectionID, Recommendation: Index on ReportItem_17.ReportSectionID already exists",
+    "timestamp": "2025-06-17T18:58:53.160702"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItem_17.ItemTypeID, Recommendation: Index on ReportItem_17.ItemTypeID already exists",
+    "timestamp": "2025-06-17T18:58:53.220662"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItem_17.DisplayRank, Recommendation: Index on ReportItem_17.DisplayRank already exists",
+    "timestamp": "2025-06-17T18:58:53.281274"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItem_17.Name, Recommendation: Index on ReportItem_17.Name already exists",
+    "timestamp": "2025-06-17T18:58:53.341324"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItem_17.FormattedFieldID, Recommendation: Index on ReportItem_17.FormattedFieldID already exists",
+    "timestamp": "2025-06-17T18:58:53.403858"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItem_17.PhotoRef, Recommendation: Index on ReportItem_17.PhotoRef already exists",
+    "timestamp": "2025-06-17T18:58:53.463453"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItem_17.Comment, Recommendation: CREATE INDEX idx_ReportItem_17_Comment ON ReportItem_17(Comment)",
+    "timestamp": "2025-06-17T18:58:53.523454"
+  },
+  {
+    "task": "Apply index",
+    "description": "Column: ReportItem_17.Comment, Result: Failed to apply index: ('42000', \"[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Column 'Comment' in table 'ReportItem_17' is of a type that is invalid for use as a key column in an index. (1919) (SQLExecDirectW)\")",
+    "timestamp": "2025-06-17T18:58:53.578991"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItem_17.DateCreated, Recommendation: Index on ReportItem_17.DateCreated already exists",
+    "timestamp": "2025-06-17T18:58:53.634992"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItem_17.DateModified, Recommendation: Index on ReportItem_17.DateModified already exists",
+    "timestamp": "2025-06-17T18:58:53.695560"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItem_17.IsDeleted, Recommendation: Index on ReportItem_17.IsDeleted already exists",
+    "timestamp": "2025-06-17T18:58:53.755127"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReadyForIntegration.ReadyForIntegrationId, Recommendation: Index on ReadyForIntegration.ReadyForIntegrationId already exists",
+    "timestamp": "2025-06-17T18:58:53.973408"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReadyForIntegration.IntegrationType, Recommendation: Index on ReadyForIntegration.IntegrationType already exists",
+    "timestamp": "2025-06-17T18:58:54.031411"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReadyForIntegration.IntegrationName, Recommendation: Index on ReadyForIntegration.IntegrationName already exists",
+    "timestamp": "2025-06-17T18:58:54.093671"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReadyForIntegration.DateCreated, Recommendation: Index on ReadyForIntegration.DateCreated already exists",
+    "timestamp": "2025-06-17T18:58:54.152332"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReadyForIntegration.OfficeId, Recommendation: Index on ReadyForIntegration.OfficeId already exists",
+    "timestamp": "2025-06-17T18:58:54.209455"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: CleanUpFolderLogging.CleanUpFolderLoggingId, Recommendation: Index on CleanUpFolderLogging.CleanUpFolderLoggingId already exists",
+    "timestamp": "2025-06-17T18:58:54.422808"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: CleanUpFolderLogging.CleanupFolderID, Recommendation: Index on CleanUpFolderLogging.CleanupFolderID already exists",
+    "timestamp": "2025-06-17T18:58:54.479317"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: CleanUpFolderLogging.CreateDate, Recommendation: Index on CleanUpFolderLogging.CreateDate already exists",
+    "timestamp": "2025-06-17T18:58:54.538320"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: CleanUpFolderLogging.UpdatedDate, Recommendation: Index on CleanUpFolderLogging.UpdatedDate already exists",
+    "timestamp": "2025-06-17T18:58:54.595829"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: CleanUpFolderLogging.FolderPath, Recommendation: Index on CleanUpFolderLogging.FolderPath already exists",
+    "timestamp": "2025-06-17T18:58:54.655382"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.InspectionID, Recommendation: Index on Inspection.InspectionID already exists",
+    "timestamp": "2025-06-17T18:58:54.867995"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.OfficeID, Recommendation: Index on Inspection.OfficeID already exists",
+    "timestamp": "2025-06-17T18:58:54.923038"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.PropertyID, Recommendation: Index on Inspection.PropertyID already exists",
+    "timestamp": "2025-06-17T18:58:54.982573"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.UserID, Recommendation: Index on Inspection.UserID already exists",
+    "timestamp": "2025-06-17T18:58:55.041591"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.InspectionStatusID, Recommendation: Index on Inspection.InspectionStatusID already exists",
+    "timestamp": "2025-06-17T18:58:55.100107"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.InspectionTypeID, Recommendation: Index on Inspection.InspectionTypeID already exists",
+    "timestamp": "2025-06-17T18:58:55.161736"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.InspectionDate, Recommendation: Index on Inspection.InspectionDate already exists",
+    "timestamp": "2025-06-17T18:58:55.219734"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsCopyReportLayout, Recommendation: Index on Inspection.IsCopyReportLayout already exists",
+    "timestamp": "2025-06-17T18:58:55.282248"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsCopyReportData, Recommendation: Index on Inspection.IsCopyReportData already exists",
+    "timestamp": "2025-06-17T18:58:55.345288"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.AttachedFileUrl, Recommendation: Index on Inspection.AttachedFileUrl already exists",
+    "timestamp": "2025-06-17T18:58:55.409344"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.ReportCopyID, Recommendation: Index on Inspection.ReportCopyID already exists",
+    "timestamp": "2025-06-17T18:58:55.471882"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.SourceReportID, Recommendation: Index on Inspection.SourceReportID already exists",
+    "timestamp": "2025-06-17T18:58:55.529865"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.DateCreated, Recommendation: Index on Inspection.DateCreated already exists",
+    "timestamp": "2025-06-17T18:58:55.589374"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.DateModified, Recommendation: Index on Inspection.DateModified already exists",
+    "timestamp": "2025-06-17T18:58:55.649392"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsDeleted, Recommendation: Index on Inspection.IsDeleted already exists",
+    "timestamp": "2025-06-17T18:58:55.719907"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.CompletedDate, Recommendation: Index on Inspection.CompletedDate already exists",
+    "timestamp": "2025-06-17T18:58:55.794444"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.AttachedFileModifiedDate, Recommendation: Index on Inspection.AttachedFileModifiedDate already exists",
+    "timestamp": "2025-06-17T18:58:55.857977"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.InspectionCompletedDate, Recommendation: Index on Inspection.InspectionCompletedDate already exists",
+    "timestamp": "2025-06-17T18:58:55.923973"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.InspectionSynchedDate, Recommendation: Index on Inspection.InspectionSynchedDate already exists",
+    "timestamp": "2025-06-17T18:58:55.987490"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.InspectionCloseDate, Recommendation: Index on Inspection.InspectionCloseDate already exists",
+    "timestamp": "2025-06-17T18:58:56.050496"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.CopyFromInpectionID, Recommendation: Index on Inspection.CopyFromInpectionID already exists",
+    "timestamp": "2025-06-17T18:58:56.117020"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsPhotoIncluded, Recommendation: Index on Inspection.IsPhotoIncluded already exists",
+    "timestamp": "2025-06-17T18:58:56.178577"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsCommentIncluded, Recommendation: Index on Inspection.IsCommentIncluded already exists",
+    "timestamp": "2025-06-17T18:58:56.238820"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsConditionIncluded, Recommendation: Index on Inspection.IsConditionIncluded already exists",
+    "timestamp": "2025-06-17T18:58:56.302428"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsSynched, Recommendation: Index on Inspection.IsSynched already exists",
+    "timestamp": "2025-06-17T18:58:56.364877"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.DoneNotSyncDate, Recommendation: Index on Inspection.DoneNotSyncDate already exists",
+    "timestamp": "2025-06-17T18:58:56.427984"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.PropertyGuid, Recommendation: Index on Inspection.PropertyGuid already exists",
+    "timestamp": "2025-06-17T18:58:56.490161"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.SignatureDate, Recommendation: Index on Inspection.SignatureDate already exists",
+    "timestamp": "2025-06-17T18:58:56.550171"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.TenantVersionId, Recommendation: Index on Inspection.TenantVersionId already exists",
+    "timestamp": "2025-06-17T18:58:56.613760"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.Inspection_Rowversion, Recommendation: Index on Inspection.Inspection_Rowversion already exists",
+    "timestamp": "2025-06-17T18:58:56.675346"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.TimeTaken, Recommendation: Index on Inspection.TimeTaken already exists",
+    "timestamp": "2025-06-17T18:58:56.735331"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.LastSyncedDevice, Recommendation: Index on Inspection.LastSyncedDevice already exists",
+    "timestamp": "2025-06-17T18:58:56.795893"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.ScheduleCreated, Recommendation: Index on Inspection.ScheduleCreated already exists",
+    "timestamp": "2025-06-17T18:58:56.857432"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.PT_Ext_ID, Recommendation: Index on Inspection.PT_Ext_ID already exists",
+    "timestamp": "2025-06-17T18:58:56.918435"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.ApiType, Recommendation: Index on Inspection.ApiType already exists",
+    "timestamp": "2025-06-17T18:58:56.978402"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.InspectionGuid, Recommendation: Index on Inspection.InspectionGuid already exists",
+    "timestamp": "2025-06-17T18:58:57.041426"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.InspectionLastDate, Recommendation: Index on Inspection.InspectionLastDate already exists",
+    "timestamp": "2025-06-17T18:58:57.100954"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsDetailedRoutine, Recommendation: Index on Inspection.IsDetailedRoutine already exists",
+    "timestamp": "2025-06-17T18:58:57.159573"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsTenantCommentIncluded, Recommendation: Index on Inspection.IsTenantCommentIncluded already exists",
+    "timestamp": "2025-06-17T18:58:57.219557"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.LIDPropertyID, Recommendation: Index on Inspection.LIDPropertyID already exists",
+    "timestamp": "2025-06-17T18:58:57.277540"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsPtSyncNotesInspection, Recommendation: Index on Inspection.IsPtSyncNotesInspection already exists",
+    "timestamp": "2025-06-17T18:58:57.339502"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.CloneInspectionId, Recommendation: Index on Inspection.CloneInspectionId already exists",
+    "timestamp": "2025-06-17T18:58:57.398295"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.FromCloneInspectionId, Recommendation: Index on Inspection.FromCloneInspectionId already exists",
+    "timestamp": "2025-06-17T18:58:57.460870"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsCloneFromInspection, Recommendation: Index on Inspection.IsCloneFromInspection already exists",
+    "timestamp": "2025-06-17T18:58:57.520967"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsInspectionMerged, Recommendation: Index on Inspection.IsInspectionMerged already exists",
+    "timestamp": "2025-06-17T18:58:57.586180"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsActionRequired, Recommendation: Index on Inspection.IsActionRequired already exists",
+    "timestamp": "2025-06-17T18:58:57.645188"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.MergedPropertyID, Recommendation: Index on Inspection.MergedPropertyID already exists",
+    "timestamp": "2025-06-17T18:58:57.705735"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.IsKeyBooked, Recommendation: Index on Inspection.IsKeyBooked already exists",
+    "timestamp": "2025-06-17T18:58:57.765275"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: Inspection.KeyCheckInDate, Recommendation: Index on Inspection.KeyCheckInDate already exists",
+    "timestamp": "2025-06-17T18:58:57.829274"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItemComment_17.ReportItemCommentID, Recommendation: Index on ReportItemComment_17.ReportItemCommentID already exists",
+    "timestamp": "2025-06-17T18:58:58.019042"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItemComment_17.ReportItemID, Recommendation: Index on ReportItemComment_17.ReportItemID already exists",
+    "timestamp": "2025-06-17T18:58:58.078598"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportItemComment_17.Value, Recommendation: Index on ReportItemComment_17.Value already exists",
+    "timestamp": "2025-06-17T18:58:58.142605"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: TenantReportTinyLink.TenantReportTinyLinkId, Recommendation: Index on TenantReportTinyLink.TenantReportTinyLinkId already exists",
+    "timestamp": "2025-06-17T18:58:58.258703"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: TenantReportTinyLink.Guid, Recommendation: Index on TenantReportTinyLink.Guid already exists",
+    "timestamp": "2025-06-17T18:58:58.320704"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: TenantReportTinyLink.InspectionId, Recommendation: Index on TenantReportTinyLink.InspectionId already exists",
+    "timestamp": "2025-06-17T18:58:58.381228"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: TenantReportTinyLink.Url, Recommendation: Index on TenantReportTinyLink.Url already exists",
+    "timestamp": "2025-06-17T18:58:58.443230"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: TenantReportTinyLink.SubGuid, Recommendation: Index on TenantReportTinyLink.SubGuid already exists",
+    "timestamp": "2025-06-17T18:58:58.506853"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: TenantReportTinyLink.DateCreated, Recommendation: Index on TenantReportTinyLink.DateCreated already exists",
+    "timestamp": "2025-06-17T18:58:58.569334"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: TenantReportTinyLink.LastVisit, Recommendation: Index on TenantReportTinyLink.LastVisit already exists",
+    "timestamp": "2025-06-17T18:58:58.631332"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBack.FeedbackID, Recommendation: Index on AIFeedBack.FeedbackID already exists",
+    "timestamp": "2025-06-17T18:58:58.788434"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBack.UniqueID, Recommendation: Index on AIFeedBack.UniqueID already exists",
+    "timestamp": "2025-06-17T18:58:58.848450"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBack.InspectionID, Recommendation: Index on AIFeedBack.InspectionID already exists",
+    "timestamp": "2025-06-17T18:58:58.910961"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBack.ReportID, Recommendation: Index on AIFeedBack.ReportID already exists",
+    "timestamp": "2025-06-17T18:58:58.969477"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBack.OfficeID, Recommendation: Index on AIFeedBack.OfficeID already exists",
+    "timestamp": "2025-06-17T18:58:59.032481"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBack.UserID, Recommendation: Index on AIFeedBack.UserID already exists",
+    "timestamp": "2025-06-17T18:58:59.094110"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBack.DateCreated, Recommendation: Index on AIFeedBack.DateCreated already exists",
+    "timestamp": "2025-06-17T18:58:59.157530"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBack.DateModified, Recommendation: Index on AIFeedBack.DateModified already exists",
+    "timestamp": "2025-06-17T18:58:59.216535"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBack.IsLiked, Recommendation: Index on AIFeedBack.IsLiked already exists",
+    "timestamp": "2025-06-17T18:58:59.274110"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBack.Comment, Recommendation: CREATE INDEX idx_AIFeedBack_Comment ON AIFeedBack(Comment)",
+    "timestamp": "2025-06-17T18:58:59.336095"
+  },
+  {
+    "task": "Apply index",
+    "description": "Column: AIFeedBack.Comment, Result: Failed to apply index: ('42000', \"[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Column 'Comment' in table 'AIFeedBack' is of a type that is invalid for use as a key column in an index. (1919) (SQLExecDirectW)\")",
+    "timestamp": "2025-06-17T18:58:59.395611"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBack.FeedbackSectionType, Recommendation: Index on AIFeedBack.FeedbackSectionType already exists",
+    "timestamp": "2025-06-17T18:58:59.452640"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppTrainings.AppTrainingId, Recommendation: Index on AppTrainings.AppTrainingId already exists",
+    "timestamp": "2025-06-17T18:58:59.609397"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppTrainings.UserId, Recommendation: Index on AppTrainings.UserId already exists",
+    "timestamp": "2025-06-17T18:58:59.668826"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppTrainings.TrainingId, Recommendation: Index on AppTrainings.TrainingId already exists",
+    "timestamp": "2025-06-17T18:58:59.730836"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppTrainings.DateCreated, Recommendation: Index on AppTrainings.DateCreated already exists",
+    "timestamp": "2025-06-17T18:58:59.790607"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppTrainings.AppVersion, Recommendation: Index on AppTrainings.AppVersion already exists",
+    "timestamp": "2025-06-17T18:58:59.849613"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.ReportPhotoID, Recommendation: Index on ReportPhoto_17.ReportPhotoID already exists",
+    "timestamp": "2025-06-17T18:59:00.009762"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.ReportItemID, Recommendation: Index on ReportPhoto_17.ReportItemID already exists",
+    "timestamp": "2025-06-17T18:59:00.065315"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.Name, Recommendation: Index on ReportPhoto_17.Name already exists",
+    "timestamp": "2025-06-17T18:59:00.127330"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.PhotoGuid, Recommendation: Index on ReportPhoto_17.PhotoGuid already exists",
+    "timestamp": "2025-06-17T18:59:00.190926"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.Url, Recommendation: Index on ReportPhoto_17.Url already exists",
+    "timestamp": "2025-06-17T18:59:00.253951"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.Angle, Recommendation: Index on ReportPhoto_17.Angle already exists",
+    "timestamp": "2025-06-17T18:59:00.313502"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.X, Recommendation: Index on ReportPhoto_17.X already exists",
+    "timestamp": "2025-06-17T18:59:00.375061"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.Y, Recommendation: Index on ReportPhoto_17.Y already exists",
+    "timestamp": "2025-06-17T18:59:00.434101"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.DateCreated, Recommendation: Index on ReportPhoto_17.DateCreated already exists",
+    "timestamp": "2025-06-17T18:59:00.491882"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.DateTaken, Recommendation: Index on ReportPhoto_17.DateTaken already exists",
+    "timestamp": "2025-06-17T18:59:00.554044"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.Quality, Recommendation: Index on ReportPhoto_17.Quality already exists",
+    "timestamp": "2025-06-17T18:59:00.614785"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.IsUploaded, Recommendation: Index on ReportPhoto_17.IsUploaded already exists",
+    "timestamp": "2025-06-17T18:59:00.674332"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.strDateTaken, Recommendation: Index on ReportPhoto_17.strDateTaken already exists",
+    "timestamp": "2025-06-17T18:59:00.739331"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.IsLandscape, Recommendation: Index on ReportPhoto_17.IsLandscape already exists",
+    "timestamp": "2025-06-17T18:59:00.798948"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhoto_17.ReportID, Recommendation: Index on ReportPhoto_17.ReportID already exists",
+    "timestamp": "2025-06-17T18:59:00.857950"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PropertyPetPhoto.PropertyPetPhotoId, Recommendation: Index on PropertyPetPhoto.PropertyPetPhotoId already exists",
+    "timestamp": "2025-06-17T18:59:01.009057"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PropertyPetPhoto.PropertyId, Recommendation: Index on PropertyPetPhoto.PropertyId already exists",
+    "timestamp": "2025-06-17T18:59:01.062633"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PropertyPetPhoto.Url, Recommendation: Index on PropertyPetPhoto.Url already exists",
+    "timestamp": "2025-06-17T18:59:01.123631"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PropertyPetPhoto.PhotoGuid, Recommendation: Index on PropertyPetPhoto.PhotoGuid already exists",
+    "timestamp": "2025-06-17T18:59:01.182662"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PropertyPetPhoto.Extension, Recommendation: Index on PropertyPetPhoto.Extension already exists",
+    "timestamp": "2025-06-17T18:59:01.242661"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PropertyPetPhoto.DateCreated, Recommendation: Index on PropertyPetPhoto.DateCreated already exists",
+    "timestamp": "2025-06-17T18:59:01.300171"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PropertyPetPhoto.IsDeleted, Recommendation: Index on PropertyPetPhoto.IsDeleted already exists",
+    "timestamp": "2025-06-17T18:59:01.365715"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailTracking.EmailTrackingID, Recommendation: Index on EmailTracking.EmailTrackingID already exists",
+    "timestamp": "2025-06-17T18:59:01.523140"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailTracking.UserID, Recommendation: Index on EmailTracking.UserID already exists",
+    "timestamp": "2025-06-17T18:59:01.577726"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailTracking.InspectionID, Recommendation: Index on EmailTracking.InspectionID already exists",
+    "timestamp": "2025-06-17T18:59:01.638710"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailTracking.OfficeID, Recommendation: Index on EmailTracking.OfficeID already exists",
+    "timestamp": "2025-06-17T18:59:01.695236"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailTracking.EmailID, Recommendation: Index on EmailTracking.EmailID already exists",
+    "timestamp": "2025-06-17T18:59:01.755268"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailTracking.EmailCheckedID, Recommendation: Index on EmailTracking.EmailCheckedID already exists",
+    "timestamp": "2025-06-17T18:59:01.813819"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: FormattedField.FormattedFieldID, Recommendation: Index on FormattedField.FormattedFieldID already exists",
+    "timestamp": "2025-06-17T18:59:01.938458"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: FormattedField.Value, Recommendation: Index on FormattedField.Value already exists",
+    "timestamp": "2025-06-17T18:59:01.998094"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhotoComment_17.ReportPhotoCommentID, Recommendation: Index on ReportPhotoComment_17.ReportPhotoCommentID already exists",
+    "timestamp": "2025-06-17T18:59:02.150480"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhotoComment_17.ReportPhotoID, Recommendation: Index on ReportPhotoComment_17.ReportPhotoID already exists",
+    "timestamp": "2025-06-17T18:59:02.207136"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhotoComment_17.Name, Recommendation: Index on ReportPhotoComment_17.Name already exists",
+    "timestamp": "2025-06-17T18:59:02.267699"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhotoComment_17.Value, Recommendation: Index on ReportPhotoComment_17.Value already exists",
+    "timestamp": "2025-06-17T18:59:02.325632"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhotoComment_17.MarkerX, Recommendation: Index on ReportPhotoComment_17.MarkerX already exists",
+    "timestamp": "2025-06-17T18:59:02.386409"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ReportPhotoComment_17.MarkerY, Recommendation: Index on ReportPhotoComment_17.MarkerY already exists",
+    "timestamp": "2025-06-17T18:59:02.447670"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PSUser.PSUserId, Recommendation: Index on PSUser.PSUserId already exists",
+    "timestamp": "2025-06-17T18:59:02.605962"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PSUser.Email, Recommendation: Index on PSUser.Email already exists",
+    "timestamp": "2025-06-17T18:59:02.666592"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PSUser.FirstName, Recommendation: Index on PSUser.FirstName already exists",
+    "timestamp": "2025-06-17T18:59:02.724585"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PSUser.Surname, Recommendation: Index on PSUser.Surname already exists",
+    "timestamp": "2025-06-17T18:59:02.782646"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PSUser.Phone, Recommendation: Index on PSUser.Phone already exists",
+    "timestamp": "2025-06-17T18:59:02.843659"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PSUser.PSID, Recommendation: Index on PSUser.PSID already exists",
+    "timestamp": "2025-06-17T18:59:02.905238"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PSUser.DateCreated, Recommendation: Index on PSUser.DateCreated already exists",
+    "timestamp": "2025-06-17T18:59:02.965351"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PSUser.DateModified, Recommendation: Index on PSUser.DateModified already exists",
+    "timestamp": "2025-06-17T18:59:03.030314"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PSUser.IsDeleted, Recommendation: Index on PSUser.IsDeleted already exists",
+    "timestamp": "2025-06-17T18:59:03.092835"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PSUser.IMUserId, Recommendation: Index on PSUser.IMUserId already exists",
+    "timestamp": "2025-06-17T18:59:03.152859"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PSUser.IMOfficeId, Recommendation: Index on PSUser.IMOfficeId already exists",
+    "timestamp": "2025-06-17T18:59:03.212436"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: PSUser.PSAgencyId, Recommendation: Index on PSUser.PSAgencyId already exists",
+    "timestamp": "2025-06-17T18:59:03.272015"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppTrainingType.AppTrainingTypeId, Recommendation: Index on AppTrainingType.AppTrainingTypeId already exists",
+    "timestamp": "2025-06-17T18:59:03.421651"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AppTrainingType.Name, Recommendation: Index on AppTrainingType.Name already exists",
+    "timestamp": "2025-06-17T18:59:03.480245"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ServerMonitoringLogs.ID, Recommendation: Index on ServerMonitoringLogs.ID already exists",
+    "timestamp": "2025-06-17T18:59:03.604824"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ServerMonitoringLogs.DateLogged, Recommendation: Index on ServerMonitoringLogs.DateLogged already exists",
+    "timestamp": "2025-06-17T18:59:03.660835"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ServerMonitoringLogs.AutoSyncsNotCompleted, Recommendation: Index on ServerMonitoringLogs.AutoSyncsNotCompleted already exists",
+    "timestamp": "2025-06-17T18:59:03.721374"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ServerMonitoringLogs.ProcessesStuckInConsoleButNotTimedOut, Recommendation: Index on ServerMonitoringLogs.ProcessesStuckInConsoleButNotTimedOut already exists",
+    "timestamp": "2025-06-17T18:59:03.783999"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ServerMonitoringLogs.CloudPhotosNotUploaded, Recommendation: Index on ServerMonitoringLogs.CloudPhotosNotUploaded already exists",
+    "timestamp": "2025-06-17T18:59:03.848996"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ServerMonitoringLogs.CloudPDFNotUploaded, Recommendation: Index on ServerMonitoringLogs.CloudPDFNotUploaded already exists",
+    "timestamp": "2025-06-17T18:59:03.910561"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ServerMonitoringLogs.RemainingFreeSpaceInServiceDriveInGB, Recommendation: Index on ServerMonitoringLogs.RemainingFreeSpaceInServiceDriveInGB already exists",
+    "timestamp": "2025-06-17T18:59:03.973154"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ServerMonitoringLogs.CloudPhotoUploadedButNotDeleted, Recommendation: Index on ServerMonitoringLogs.CloudPhotoUploadedButNotDeleted already exists",
+    "timestamp": "2025-06-17T18:59:04.034139"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: ServerMonitoringLogs.CloudPDFUploadedButNotDeleted, Recommendation: Index on ServerMonitoringLogs.CloudPDFUploadedButNotDeleted already exists",
+    "timestamp": "2025-06-17T18:59:04.093735"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EntityToFix.ID, Recommendation: Index on EntityToFix.ID already exists",
+    "timestamp": "2025-06-17T18:59:04.241242"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EntityToFix.EntityIdToFix, Recommendation: Index on EntityToFix.EntityIdToFix already exists",
+    "timestamp": "2025-06-17T18:59:04.298845"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EntityToFix.isFixed, Recommendation: Index on EntityToFix.isFixed already exists",
+    "timestamp": "2025-06-17T18:59:04.358886"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBackSectionType.FeedBackSectionTypeID, Recommendation: Index on AIFeedBackSectionType.FeedBackSectionTypeID already exists",
+    "timestamp": "2025-06-17T18:59:04.491211"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBackSectionType.Name, Recommendation: Index on AIFeedBackSectionType.Name already exists",
+    "timestamp": "2025-06-17T18:59:04.553308"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AIFeedBackSectionType.FeedbackSectionType, Recommendation: Index on AIFeedBackSectionType.FeedbackSectionType already exists",
+    "timestamp": "2025-06-17T18:59:04.611050"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.EmailCheckedID, Recommendation: Index on EmailChecked.EmailCheckedID already exists",
+    "timestamp": "2025-06-17T18:59:04.735500"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.EmailID, Recommendation: Index on EmailChecked.EmailID already exists",
+    "timestamp": "2025-06-17T18:59:04.794105"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.SentDate, Recommendation: Index on EmailChecked.SentDate already exists",
+    "timestamp": "2025-06-17T18:59:04.855093"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.FailedDate, Recommendation: Index on EmailChecked.FailedDate already exists",
+    "timestamp": "2025-06-17T18:59:04.915654"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.CheckedDate, Recommendation: Index on EmailChecked.CheckedDate already exists",
+    "timestamp": "2025-06-17T18:59:04.977229"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.InspectionChecked, Recommendation: Index on EmailChecked.InspectionChecked already exists",
+    "timestamp": "2025-06-17T18:59:05.042211"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.IsDeleted, Recommendation: Index on EmailChecked.IsDeleted already exists",
+    "timestamp": "2025-06-17T18:59:05.103806"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.ReceiverID, Recommendation: Index on EmailChecked.ReceiverID already exists",
+    "timestamp": "2025-06-17T18:59:05.164314"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.SenderID, Recommendation: Index on EmailChecked.SenderID already exists",
+    "timestamp": "2025-06-17T18:59:05.229318"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.SenderEmail, Recommendation: Index on EmailChecked.SenderEmail already exists",
+    "timestamp": "2025-06-17T18:59:05.295841"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.ReceiverEmail, Recommendation: Index on EmailChecked.ReceiverEmail already exists",
+    "timestamp": "2025-06-17T18:59:05.358843"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.Subject, Recommendation: Index on EmailChecked.Subject already exists",
+    "timestamp": "2025-06-17T18:59:05.427354"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.Body, Recommendation: CREATE INDEX idx_EmailChecked_Body ON EmailChecked(Body)",
+    "timestamp": "2025-06-17T18:59:05.497886"
+  },
+  {
+    "task": "Apply index",
+    "description": "Column: EmailChecked.Body, Result: Failed to apply index: ('42000', \"[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Column 'Body' in table 'EmailChecked' is of a type that is invalid for use as a key column in an index. (1919) (SQLExecDirectW)\")",
+    "timestamp": "2025-06-17T18:59:05.577403"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.ErrorMessage, Recommendation: Index on EmailChecked.ErrorMessage already exists",
+    "timestamp": "2025-06-17T18:59:05.642403"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.ErrorTrace, Recommendation: CREATE INDEX idx_EmailChecked_ErrorTrace ON EmailChecked(ErrorTrace)",
+    "timestamp": "2025-06-17T18:59:05.705048"
+  },
+  {
+    "task": "Apply index",
+    "description": "Column: EmailChecked.ErrorTrace, Result: Failed to apply index: ('42000', \"[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Column 'ErrorTrace' in table 'EmailChecked' is of a type that is invalid for use as a key column in an index. (1919) (SQLExecDirectW)\")",
+    "timestamp": "2025-06-17T18:59:05.759050"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.FriendlyError, Recommendation: Index on EmailChecked.FriendlyError already exists",
+    "timestamp": "2025-06-17T18:59:05.819633"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.SenderName, Recommendation: Index on EmailChecked.SenderName already exists",
+    "timestamp": "2025-06-17T18:59:05.880199"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.InspectionID, Recommendation: Index on EmailChecked.InspectionID already exists",
+    "timestamp": "2025-06-17T18:59:05.942191"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.ShortUrlGuid, Recommendation: Index on EmailChecked.ShortUrlGuid already exists",
+    "timestamp": "2025-06-17T18:59:06.000759"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.isTenantEmail, Recommendation: Index on EmailChecked.isTenantEmail already exists",
+    "timestamp": "2025-06-17T18:59:06.060800"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.OfficeId, Recommendation: Index on EmailChecked.OfficeId already exists",
+    "timestamp": "2025-06-17T18:59:06.122362"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.IsOpened, Recommendation: Index on EmailChecked.IsOpened already exists",
+    "timestamp": "2025-06-17T18:59:06.182172"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.AppVersion, Recommendation: Index on EmailChecked.AppVersion already exists",
+    "timestamp": "2025-06-17T18:59:06.244119"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: EmailChecked.Device, Recommendation: Index on EmailChecked.Device already exists",
+    "timestamp": "2025-06-17T18:59:06.306255"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AccessPlan.AccessPlanID, Recommendation: Index on AccessPlan.AccessPlanID already exists",
+    "timestamp": "2025-06-17T18:59:06.416764"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AccessPlan.Name, Recommendation: Index on AccessPlan.Name already exists",
+    "timestamp": "2025-06-17T18:59:06.473428"
+  },
+  {
+    "task": "Recommend index",
+    "description": "Column: AccessPlan.Description, Recommendation: Index on AccessPlan.Description already exists",
+    "timestamp": "2025-06-17T18:59:06.532411"
   }
 ]
