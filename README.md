@@ -41,7 +41,10 @@ ai-autonomous-dbms/
 
 ### Prerequisites
 - Python 3.8 or later
-- Machine learning libraries (e.g., TensorFlow, PyTorch, scikit-learn)
+- Jupyter Notebook (for running `docs/generate_research_doc.ipynb`)
+- Machine learning libraries: scikit-learn, matplotlib, (optionally TensorFlow, PyTorch)
+- `python-docx` (for Word export)
+- Internet access (for literature review and citation fetching)
 - Database system (e.g., SQL Server, PostgreSQL, MySQL, MongoDB)
 - Docker (optional)
 
