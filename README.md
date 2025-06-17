@@ -70,3 +70,58 @@ Run the following commands in sequence from the project root directory:
    ```powershell
    python src/self_tuning/main.py
    ```
+
+## Feature: Database Action Auditing and Reporting
+
+All main modules now track and summarize actions performed on the database. After running each module, you can call the `get_applied_tasks_summary()` method to get a list of tasks and descriptions of what was done.
+
+### Example Usage
+
+After running a module, print the summary:
+
+```python
+# For IndexManager
+manager = IndexManager()
+# ... run actions ...
+print(manager.get_applied_tasks_summary())
+
+# For QueryOptimizer
+optimizer = QueryOptimizer()
+# ... run actions ...
+print(optimizer.get_applied_tasks_summary())
+
+# For AnomalyDetector
+anomaly = AnomalyDetector()
+# ... run actions ...
+print(anomaly.get_applied_tasks_summary())
+
+# For WorkloadMonitor
+monitor = WorkloadMonitor()
+# ... run actions ...
+print(monitor.get_applied_tasks_summary())
+
+# For ParameterTuner
+param_tuner = ParameterTuner()
+# ... run actions ...
+print(param_tuner.get_applied_tasks_summary())
+```
+
+Each summary will show a list of tasks and their descriptions, providing a clear audit trail of what was applied to the database during execution.
+
+## Database Configuration
+
+The system now supports real MS SQL Server connections. Update `src/config.py` with your database details or use environment variables for deployment:
+
+```python
+DB_TYPE = "mssql"  # Options: postgresql, mysql, mongodb, mssql
+DB_HOST = "localhost"
+DB_PORT = 1433  # Default port for MSSQL
+DB_USER = "sa"
+DB_PASSWORD = "your_password"
+DB_NAME = "your_db_name"
+DB_DRIVER = "ODBC Driver 17 for SQL Server"
+```
+
+## Jira Integration
+
+Jira tasks have been created and linked for all new features related to action tracking and reporting. Reference the relevant ticket in your commit messages for traceability.
