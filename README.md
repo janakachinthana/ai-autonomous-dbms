@@ -124,14 +124,23 @@ ai-autonomous-dbms/
 
 ## References
 [1] Oloruntoba, O. (2025). AI-Driven Autonomous Database Management: Self-tuning, Predictive Query Optimization, and Intelligent Indexing in Enterprise IT Environments. *World Journal of Advanced Research and Reviews*, 25(02), 1558-1580.
+
 [2] https://journalwjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-0534.pdf
+
 [3] https://www.oracle.com/autonomous-database/
+
 [4] https://www.microsoft.com/en-us/research/publication/ai-meets-ai-leveraging-query-executions-to-improve-index-recommendations/
+
 [5] Oracle, "Autonomous Database," Oracle, 2025. [Online]. Available: https://www.oracle.com/autonomous-database/
+
 [6] R. Shwartz-Ziv and A. Armon, "Tabular Data: Deep Learning is Not All You Need," arXiv preprint arXiv:2106.03253, 2021. [Online]. Available: https://arxiv.org/abs/2106.03253
+
 [7] T. Kraska, A. Beutel, E. H. Chi, J. Dean, and N. Polyzotis, "The Case for Learned Index Structures," in Proc. ACM SIGMOD, 2018, pp. 489–504. [Online]. Available: https://dl.acm.org/doi/10.1145/3183713.3196909
+
 [8] A. Pavlo, A. Agrawal, G. Angulo, et al., "Self-Driving Database Management Systems," in Proc. CIDR, 2017. [Online]. Available: http://cidrdb.org/cidr2017/papers/p42-pavlo-cidr17.pdf
+
 [9] S. Chaudhuri and V. Narasayya, "Self-tuning Database Systems: A Decade of Progress," in Proc. VLDB, 2007. [Online]. Available: https://www.vldb.org/conf/2007/papers/tutorials/tut1.chaudhuri.pdf
+
 [10] A. Fekete, D. Lomet, A. Weikum, and G. Weikum, "Making Databases Self-Managing: A Survey," VLDB Journal, vol. 16, no. 4, pp. 419–437, 2007. [Online]. Available: https://link.springer.com/article/10.1007/s00778-007-0045-2
 
 ---
