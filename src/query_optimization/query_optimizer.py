@@ -10,16 +10,23 @@ class QueryOptimizer:
     """
     Predictive query optimization using real MS SQL connection.
     """
+    _log_dir = None
+
     def __init__(self):
         self.conn = pyodbc.connect(DB_CONNECTION_STRING)
         self.applied_tasks = []  # Track applied tasks
+        if QueryOptimizer._log_dir is None:
+            now_str = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
+            base_logs = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../logs'))
+            log_dir = os.path.join(base_logs, now_str)
+            os.makedirs(log_dir, exist_ok=True)
+            QueryOptimizer._log_dir = log_dir
+        self.log_path = os.path.join(QueryOptimizer._log_dir, 'query_optimizer.json')
 
     def _log_task(self, task):
-        log_path = os.path.join(os.path.dirname(__file__), '../../logs/query_optimizer.json')
-        log_path = os.path.abspath(log_path)
         try:
-            if os.path.exists(log_path):
-                with open(log_path, 'r', encoding='utf-8') as f:
+            if os.path.exists(self.log_path):
+                with open(self.log_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
             else:
                 data = []
@@ -27,7 +34,7 @@ class QueryOptimizer:
             data = []
         task['timestamp'] = datetime.datetime.now().isoformat()
         data.append(task)
-        with open(log_path, 'w', encoding='utf-8') as f:
+        with open(self.log_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2)
 
     def analyze_query(self, query):

@@ -1,0 +1,1632 @@
+[
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeEmail, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:41.144321"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.InspectionFrequency, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:41.225329"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportField_17, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:41.345398"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AppInstallationLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:41.451954"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ShortUrl, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:41.557255"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportItem_17, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:41.707298"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReadyForIntegration, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:39:41.772820"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.CleanUpFolderLogging, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:41.873343"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Inspection, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:42.374697"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportItemComment_17, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:42.430705"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantReportTinyLink, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:42.535234"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AIFeedBack, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:42.668872"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AppTrainings, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:42.772397"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportPhoto_17, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:42.910089"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyPetPhoto, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:43.028167"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EmailTracking, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:43.103962"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.FormattedField, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:39:43.152240"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportPhotoComment_17, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:43.263090"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PSUser, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:43.417968"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AppTrainingType, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:43.501652"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ServerMonitoringLogs, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:43.600406"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EntityToFix, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:43.654259"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AIFeedBackSectionType, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:43.729238"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EmailChecked, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:43.963279"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AccessPlan, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:44.099870"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PSUserToken, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:44.248443"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.HandoverExcitement, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:44.330739"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.WelcomeScreen, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:44.399006"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.InsightsEnableOffices, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:44.470597"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantSignature, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:44.590051"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeRestGroup, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:44.674590"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.UserSetting, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:44.778306"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TestDates, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:44.885881"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.UserStatus, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:44.938864"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ListOfAccoutsToDeactiveInCMS1, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:45.062173"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PaperlessHandoverDocuments, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:45.206793"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ListOfAccountsToDeactivateNew, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:45.261401"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportVirtualTour, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:45.396292"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SFKey, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:45.504038"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.UserRole, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:45.558639"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ListOfAccoutsToDeactiveInCMSMerged, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:45.643744"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.FAQ, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:45.811338"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportActionLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:45.933992"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PhonegapReports, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:39:46.001855"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.User, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:46.726573"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SPFInfoEmailQue, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:39:46.843216"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MigrationError, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:46.920999"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Ui, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:47.071757"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PaperlessState, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:47.176279"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EnsureEncodedPhoto, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:47.270190"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.UserProfilePicture, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:47.373784"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EmailRequestLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:47.480335"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.State, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:47.546353"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.FeaturedPhoto, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:47.626928"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Inspection_softdel, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:48.070243"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MergedProperty, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:48.168874"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SectionType, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:48.229853"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PaperlessGeneralContact, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:48.365980"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.UserDeviceInformation, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:48.628327"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SampleTable, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:39:48.764098"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantOnLeaseSignature, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:48.934861"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EmailQue2, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:49.294901"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Inspection_softdel1, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:49.791194"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportPhotoComment, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:49.930055"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportPhoto, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:50.297808"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyLayoutTemplate, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:50.618058"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.NewAppUser, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:50.696900"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AppErrorsAcutechService, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:50.794647"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyManagementSoftware, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:50.854844"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportItemComment, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:51.338951"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantSignUpRequest, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:51.552496"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.NewAppSync, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:51.691222"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.InspectionFromIE, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:39:52.083248"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportItem, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:52.324872"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.InspectionData, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:52.530499"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.CalendarEvent, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:52.730159"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SpfDomainCheck, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:52.858086"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.DeadlockDetails, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:39:52.935668"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportField, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:00.770728"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SyncDiagnosticLogs, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:00.910237"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportFolder, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:01.097995"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EmailSignatureForOfficeParent, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:01.273828"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportItemTenant, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:01.503108"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Report, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:01.609874"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportFieldNameMapper, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:01.728702"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportPhotoTenant, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:02.071298"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyType, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:02.132137"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportInFolder, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:02.209915"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AllowTenantReviewLogging, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:02.325680"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AdminQueryParameter, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:02.516778"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportTenant, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:02.741539"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyLayoutTemplateItemName, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:02.856559"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyDetail, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:03.109316"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AdminQuery, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:03.289887"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantOnLease, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:03.670744"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyLayoutTemplateItem, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:03.811191"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantUserToken, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:04.059024"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.InspectionFromIESyncLog, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:04.164587"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.sysdiagrams, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:04.271555"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.LeaseDoc, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:04.398967"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantOnLeaseVersion, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:04.969411"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Asset, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:05.528239"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PaperlessDocsIncludeType, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:05.599854"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantUser, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:05.851107"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeLocation, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:06.315081"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyLayoutItemSet, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:06.405408"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportDamagedInspectionMatrix, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:06.544229"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantUserStatus, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:06.658645"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.DeviceInstalltionDate, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:06.772954"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyLayoutItem, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:06.961553"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.RESTEmailQue, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:07.181726"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AssetAttachment, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:07.511942"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.DisclosureFromIE, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:07.909936"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyLayout, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:08.056551"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MigratedPropertyLayoutsFromIE, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:13.665681"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyCustomReportTemplate, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:13.807785"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.DeviceSpecification, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:14.113097"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AppUIThemes, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:14.420750"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PasswordUpdateHistory, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:14.880325"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeReportSettingTenant, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:15.312917"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Property, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:17.396375"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ChangeTracker, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:17.539499"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AssetComment, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:17.854380"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SyncLastRuns, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:17.951930"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ApiErrorLogging, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:18.141999"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyLayoutSubitem, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:18.295696"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Office, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:21.135307"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SuperAdminRequestLog, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:21.381413"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SyncLogs, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:21.612691"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportKeysheetDataTemp, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:22.009738"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.InspectionType, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:22.102342"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table betauser.OfficeLogging, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:22.268145"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SfMigrationLogs, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:22.486816"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EmailDomainReplace, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:22.618169"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.InspectionStatus, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:22.724735"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MaintenanceComments, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:22.980916"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SyncProcess, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:23.340097"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyDocuments, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:23.628622"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantChangeLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:23.882694"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AutoSyncRestOffice, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:23.971513"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantUserProfileImage, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:24.163155"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReCleanInspection, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:24.413783"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.VirtualTour, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:24.760267"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.CustomReportTemplate, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:24.943212"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.tempPropertySubItem, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:25.080746"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TempReportSettingLogs, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:25.360852"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EmailTemplate, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:25.664301"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Signatures, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:25.940818"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PreSavedOfficeReportSetting, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:26.267158"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MigratedPropertyLayoutsFromIELutwyche, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:28.879516"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TriggerLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:29.161095"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TAIReminderSentInspection, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:29.287799"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.VersionCheck, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:29.380453"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Emails, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:29.843507"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MigratedPropertyLayoutsFromIEAscot, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:34.396356"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ProgressPropertyImport, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:34.515353"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TempReportSetting, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:35.032763"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyActiveStatus, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:35.102997"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Logs.CrossDomainServiceErrorLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:35.199542"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.RedisCacheTest, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:35.306078"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PaperlessRemainderEmailLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:35.487591"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.UserNotification, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:35.838050"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.DeviceTypes, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:35.951595"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PreSaveReportFieldNameMapper, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:36.104223"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportSettingEmailQue, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:36.467456"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PTSyncNotesLogging, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:36.619129"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.CMSTheme, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:36.877337"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ConditionCode, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:37.033847"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.UserProfileImage, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:37.214306"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.CloudPhoto, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:37.885194"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.VirtualTourLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:38.204593"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantPortalLogging, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:38.623138"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.RestTicket, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:38.765868"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.LogSetting, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:38.963494"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyPhoto, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:39.174042"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TAIEmailRequestLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:39.419713"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.CloudReport, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:39.946540"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeDKIMInfo, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:40.161395"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeTrustSystemData, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:40.731584"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SalesforceAPIToken, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:40.802363"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PerfomanceLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:41.020021"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.CleanUpFolder, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:41.269884"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportPageCount, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:41.553777"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ChangeLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:41.976988"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AutoSyncLogs, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:42.255846"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.RequestLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:42.364731"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AutoLogOutTime, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:42.476073"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AllowTenantReviewSwitchLogging, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:42.694075"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EmailType, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:42.788123"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeLayoutResetQueue, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:43.032609"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Country, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:43.237271"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.InspectionFrequencyType, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:43.371146"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Dictionary, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:43.588900"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MissingIndex, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:43.877738"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.VirtualImage, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:44.191131"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PanicSetting, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:44.400866"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PaperlessTermsAndCondition, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:44.673318"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.InspectionStatusLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:45.067535"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.DictionaryType, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:45.144216"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyLandlord, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:45.541247"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.NewPasswordWizard, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:45.673252"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.S3UploadOperationErrorLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:45.827959"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportSetting, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:46.284459"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyLayoutTemplateSubItems, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:46.454340"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantSignedDocument, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:46.650994"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.VirtualImageNote, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:46.948248"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ActivationPopupTrack, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:47.242115"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.CountryState, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:47.388750"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.BAndAUniqueID, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:47.633175"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportInspection, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:48.402639"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeLayoutItem, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:48.579617"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyOverviewVideo, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:48.868332"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.BetaProgram, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:49.020387"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportSyncLog, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:49.242432"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.RoutineCompletedEmailData, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:49.543036"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.VirtualPathWay, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:49.986592"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantPortalReportLock, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:50.272686"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SFSyncLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:50.434304"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeDetail, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:50.637393"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportItemType, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:50.864516"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.RestLog, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:51.244454"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.BetaCampaign, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:51.922016"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.InspectionDeleteLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:52.065561"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeLayoutSubItem, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:52.260761"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ErrorOnStack, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:52.461485"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.DefaultSortField, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:52.561542"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PreSavedOfficeReportSettingTenant, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:52.842231"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportProperty, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:54.045269"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeColourSettings, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:54.407024"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportsToMigrate, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:54.729376"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EmailScheduleQue, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:55.783953"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.RoutineInspectionSchedule, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:56.175902"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.BetaGroup, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:56.370270"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.RestEmailReciever, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:56.600874"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.CachedReports, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:56.766442"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertySubItem, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:56.933624"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EmailSignature, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:57.314930"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeType, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:57.401524"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.BetaGroupParticipants, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:57.680838"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ClearedWaitQueries, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:40:57.849192"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AuditTrail, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:58.224411"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeLayoutResetQueueErrorLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:58.442804"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TimeZone, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:58.692781"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantSignOffRequest, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:58.948913"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SeenWizard, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:59.110695"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportOnServer, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:59.232962"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Query, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:59.407670"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.BetaInvite, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:59.590193"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ResetProperty, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:59.719068"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EmergencyContactType, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:40:59.813985"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.UserToken, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:00.226661"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.CloudPDF, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:00.596008"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantRequestLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:01.052299"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Tenant, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:01.912658"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EmergencyContact, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:02.196611"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeRestDetail, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:02.417213"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Notification, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:02.886884"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeLogoUpload, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:03.094246"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantVersion, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:03.845051"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeGlobalSubItem, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:03.955845"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeNewSignatureElement, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:04.233103"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeParentGroup, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:04.783790"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OldAppUser, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:04.923656"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeSetting, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:07.970086"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AutoCloseTryLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:08.144527"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportFieldType, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:08.562778"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OldAppSync, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:08.804969"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SystemEmailQue, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:09.293134"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.EmailQue, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:09.984439"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.BetaEmailTemplate, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:10.187141"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MergeInspectionLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:10.493631"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportEditLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:10.720420"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportVideo, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:11.075012"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SendKeysheetToTenant, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:11.545140"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeLayoutSuggestedItem, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:11.743603"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyItem, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:41:12.002499"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.InspectionsToRestore, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:41:12.380749"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantActionRequestComment, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:12.566059"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MaintenanceRequest, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:13.602527"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MaintenanceStatus, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:13.686357"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MigratedInspection, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:14.056552"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeContainer, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:14.519075"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MaintenanceStatusLogMaintenanceStatusLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:14.907073"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.UserDevices, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:14.996716"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.VirtualSensitiveSpotImage, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:15.262823"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ErrorLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:15.802425"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MaintenancePhoto, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:16.245029"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TradeType, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:17.600818"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.CMSBootstrap, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:17.978492"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.BetaCampaignParticipants, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:18.654445"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ErrorLogDetail, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:18.950118"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.UserToken_16_05, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:19.265788"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TenantAssistedInspectionURL, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:19.568410"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.Frequency, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:19.770681"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.MaintenanceVideo, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:20.132966"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.GlobalLayoutSuggestedItem, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:41:20.420385"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AutoRestEmail, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:20.656015"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyInspectionCoverPhotos, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:41:21.180872"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.GenericHttpRequestLog, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:41:21.666110"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertyEditStatus, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:21.790971"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeLayout, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:22.023335"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.UserSignature, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:22.329506"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportVideoComment, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:22.627927"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PaperlessBasicTermsAndCondition, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:22.973202"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.GlobalLayout, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:23.211196"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.InspectionsFromHTHA, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:23.801854"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.TAISyncLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:24.055458"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SFNewAPILog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:24.440293"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.UserToken_12_16, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:24.734614"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.PropertiesFromBnA, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:24.973000"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.IMLog, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:41:25.614374"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportCoverPage, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:26.295301"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.SpAuthorizeLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:26.443505"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.GlobalLayoutItem, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:26.818422"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.UserFilters, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:27.574980"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.AI360InspectionsSettingChangedLog, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:27.972371"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportsOnReportServer, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:28.104144"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.GlobalLayoutSubItem, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:28.288800"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeReportSetting, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:41:29.165829"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeReportSettingCommercial, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:31.777819"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.VideoThumbnailLogging, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:32.065259"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportSection, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:32.322014"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.CloudPhoto_17, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:33.181564"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.VideoLogging, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:33.489739"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.ReportTemplate, Result: No anomaly.",
+    "timestamp": "2025-06-20T11:41:33.697939"
+  },
+  {
+    "task": "Detect anomaly",
+    "description": "Log entry: User accessed table dbo.OfficeLogging, Result: Potential anomaly detected!",
+    "timestamp": "2025-06-20T11:41:33.943233"
+  }
+]

@@ -11,3 +11,4 @@ pymongo # MongoDB connector
 matplotlib
 python-docx
 jupyter
+pyodbc
