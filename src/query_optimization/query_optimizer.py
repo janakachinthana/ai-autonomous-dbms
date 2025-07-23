@@ -47,12 +47,16 @@ class QueryOptimizer:
             )
             if not allowed:
                 raise ValueError("Only simple SELECT queries are allowed for analysis.")
-            cursor.execute(f"SET SHOWPLAN_ALL ON; {query}; SET SHOWPLAN_ALL OFF;")
+            # Fix: SET SHOWPLAN_ALL ON and query must be executed separately
+            cursor.execute("SET SHOWPLAN_ALL ON")
+            cursor.nextset()  # Advance to next result set if needed
+            cursor.execute(query)
             plan = cursor.fetchall()
+            cursor.execute("SET SHOWPLAN_ALL OFF")
             # Example: extract some features from the plan (customize as needed)
             features = {
                 'complexity': len(plan),
-                'estimated_rows': sum(int(row[7]) for row in plan if row[7].isdigit()),
+                'estimated_rows': sum(int(row[7]) for row in plan if str(row[7]).isdigit()),
                 'has_join': any('JOIN' in str(row) for row in plan)
             }
             task = {

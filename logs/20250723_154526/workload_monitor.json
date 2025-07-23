@@ -1,0 +1,1642 @@
+[
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 86.91782979648829, 'memory_usage': 4767.5464226703825, 'cache_hit_ratio': 100.08, 'query_throughput': 560}",
+    "timestamp": "2025-07-23T15:45:35.940228"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 77.77327028724905, 'memory_usage': 7563.937908302454, 'cache_hit_ratio': 100.08, 'query_throughput': 483}",
+    "timestamp": "2025-07-23T15:45:36.129881"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 34.592012429838064, 'memory_usage': 7490.9902861098, 'cache_hit_ratio': 170.33, 'query_throughput': 553}",
+    "timestamp": "2025-07-23T15:45:36.480811"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 55.74414199047429, 'memory_usage': 1398.1030436513583, 'cache_hit_ratio': 170.33, 'query_throughput': 694}",
+    "timestamp": "2025-07-23T15:45:36.825122"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 69.42558411674818, 'memory_usage': 6047.363991693151, 'cache_hit_ratio': 170.33, 'query_throughput': 912}",
+    "timestamp": "2025-07-23T15:45:37.102542"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 87.21219691281082, 'memory_usage': 6686.999069302633, 'cache_hit_ratio': 28.17, 'query_throughput': 543}",
+    "timestamp": "2025-07-23T15:45:37.629738"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 67.09790357886311, 'memory_usage': 5812.774527241186, 'cache_hit_ratio': 28.17, 'query_throughput': 974}",
+    "timestamp": "2025-07-23T15:45:37.790327"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 49.16471141274574, 'memory_usage': 7380.609437500298, 'cache_hit_ratio': 28.17, 'query_throughput': 392}",
+    "timestamp": "2025-07-23T15:45:37.990422"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 51.58703718769636, 'memory_usage': 1155.4117987833754, 'cache_hit_ratio': 29.93, 'query_throughput': 833}",
+    "timestamp": "2025-07-23T15:45:38.733588"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 31.572122010182486, 'memory_usage': 5441.43071138424, 'cache_hit_ratio': 29.93, 'query_throughput': 746}",
+    "timestamp": "2025-07-23T15:45:38.935123"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 41.25880369063417, 'memory_usage': 7967.035009509327, 'cache_hit_ratio': 29.93, 'query_throughput': 733}",
+    "timestamp": "2025-07-23T15:45:39.206561"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 52.70821908837513, 'memory_usage': 4145.868160752232, 'cache_hit_ratio': 39.97, 'query_throughput': 665}",
+    "timestamp": "2025-07-23T15:45:39.420220"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 67.15668209547829, 'memory_usage': 7212.897284117188, 'cache_hit_ratio': 39.97, 'query_throughput': 290}",
+    "timestamp": "2025-07-23T15:45:39.874081"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 38.77729117395859, 'memory_usage': 5492.857953153389, 'cache_hit_ratio': 39.97, 'query_throughput': 142}",
+    "timestamp": "2025-07-23T15:45:40.051326"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 67.76905054319163, 'memory_usage': 6064.154109131528, 'cache_hit_ratio': 39.97, 'query_throughput': 859}",
+    "timestamp": "2025-07-23T15:45:40.099048"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 45.204782934745474, 'memory_usage': 2177.081177419076, 'cache_hit_ratio': 31.18, 'query_throughput': 922}",
+    "timestamp": "2025-07-23T15:45:40.409723"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 61.85238952916454, 'memory_usage': 2404.196667029992, 'cache_hit_ratio': 31.18, 'query_throughput': 931}",
+    "timestamp": "2025-07-23T15:45:40.911490"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 48.31734082723685, 'memory_usage': 2414.7602312810045, 'cache_hit_ratio': 31.18, 'query_throughput': 531}",
+    "timestamp": "2025-07-23T15:45:41.006217"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 26.595716336217492, 'memory_usage': 5281.205634888251, 'cache_hit_ratio': 27.72, 'query_throughput': 303}",
+    "timestamp": "2025-07-23T15:45:41.385080"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 86.6539259381867, 'memory_usage': 7001.9997005555615, 'cache_hit_ratio': 27.72, 'query_throughput': 583}",
+    "timestamp": "2025-07-23T15:45:41.587291"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 62.63282629848857, 'memory_usage': 7802.05094666221, 'cache_hit_ratio': 27.72, 'query_throughput': 816}",
+    "timestamp": "2025-07-23T15:45:42.135010"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 74.38706150833882, 'memory_usage': 6733.961617200174, 'cache_hit_ratio': 26.03, 'query_throughput': 273}",
+    "timestamp": "2025-07-23T15:45:42.381117"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 68.0398210017438, 'memory_usage': 7633.220624844068, 'cache_hit_ratio': 26.03, 'query_throughput': 619}",
+    "timestamp": "2025-07-23T15:45:42.697737"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 43.697064708420385, 'memory_usage': 2226.3497200116353, 'cache_hit_ratio': 26.03, 'query_throughput': 735}",
+    "timestamp": "2025-07-23T15:45:42.836518"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 64.98219426050753, 'memory_usage': 7225.628033677204, 'cache_hit_ratio': 26.03, 'query_throughput': 685}",
+    "timestamp": "2025-07-23T15:45:42.917626"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 75.58164747574993, 'memory_usage': 3891.5932171573327, 'cache_hit_ratio': 29.07, 'query_throughput': 976}",
+    "timestamp": "2025-07-23T15:45:43.385291"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 72.03701793268438, 'memory_usage': 3298.378890694808, 'cache_hit_ratio': 29.07, 'query_throughput': 385}",
+    "timestamp": "2025-07-23T15:45:43.502216"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 66.00226736402715, 'memory_usage': 4038.7704139535003, 'cache_hit_ratio': 29.07, 'query_throughput': 553}",
+    "timestamp": "2025-07-23T15:45:43.816961"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 80.107640771864, 'memory_usage': 3086.0689163103502, 'cache_hit_ratio': 29.07, 'query_throughput': 188}",
+    "timestamp": "2025-07-23T15:45:44.032797"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 83.29744634880969, 'memory_usage': 5082.991247113009, 'cache_hit_ratio': 29.07, 'query_throughput': 472}",
+    "timestamp": "2025-07-23T15:45:44.088911"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 42.34679820873856, 'memory_usage': 3535.1439067470474, 'cache_hit_ratio': 29.07, 'query_throughput': 373}",
+    "timestamp": "2025-07-23T15:45:44.292797"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 25.963292167539507, 'memory_usage': 6553.597073638109, 'cache_hit_ratio': 26.82, 'query_throughput': 447}",
+    "timestamp": "2025-07-23T15:45:44.758769"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 33.99292663834113, 'memory_usage': 3456.9975204299494, 'cache_hit_ratio': 26.82, 'query_throughput': 443}",
+    "timestamp": "2025-07-23T15:45:44.823101"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 86.66504086919272, 'memory_usage': 7686.657268943114, 'cache_hit_ratio': 26.82, 'query_throughput': 568}",
+    "timestamp": "2025-07-23T15:45:45.139808"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 86.5560867382402, 'memory_usage': 3617.7693443076514, 'cache_hit_ratio': 26.82, 'query_throughput': 263}",
+    "timestamp": "2025-07-23T15:45:45.311992"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 32.895988008987345, 'memory_usage': 5569.502896061228, 'cache_hit_ratio': 27.26, 'query_throughput': 910}",
+    "timestamp": "2025-07-23T15:45:45.409148"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 56.91036093264418, 'memory_usage': 1887.998684061834, 'cache_hit_ratio': 27.26, 'query_throughput': 602}",
+    "timestamp": "2025-07-23T15:45:45.502005"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 66.67929682870749, 'memory_usage': 5751.816909716673, 'cache_hit_ratio': 27.26, 'query_throughput': 769}",
+    "timestamp": "2025-07-23T15:45:45.865509"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 61.81335951368855, 'memory_usage': 1587.0819686774473, 'cache_hit_ratio': 27.26, 'query_throughput': 800}",
+    "timestamp": "2025-07-23T15:45:46.111870"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 35.85692890999663, 'memory_usage': 6770.838980215663, 'cache_hit_ratio': 27.26, 'query_throughput': 671}",
+    "timestamp": "2025-07-23T15:45:46.194819"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 58.476704223917054, 'memory_usage': 1180.8095762715402, 'cache_hit_ratio': 28.45, 'query_throughput': 149}",
+    "timestamp": "2025-07-23T15:45:46.711059"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 58.459166659257946, 'memory_usage': 3821.764377253111, 'cache_hit_ratio': 28.45, 'query_throughput': 652}",
+    "timestamp": "2025-07-23T15:45:46.873679"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 86.14706879877033, 'memory_usage': 6439.810306495984, 'cache_hit_ratio': 28.45, 'query_throughput': 982}",
+    "timestamp": "2025-07-23T15:45:46.971355"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 82.32179483048887, 'memory_usage': 4559.1273440847435, 'cache_hit_ratio': 28.45, 'query_throughput': 289}",
+    "timestamp": "2025-07-23T15:45:47.240227"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 29.138492795275095, 'memory_usage': 5356.6619066867825, 'cache_hit_ratio': 28.45, 'query_throughput': 326}",
+    "timestamp": "2025-07-23T15:45:47.344910"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 21.614718331220722, 'memory_usage': 2393.477431008098, 'cache_hit_ratio': 25.0, 'query_throughput': 528}",
+    "timestamp": "2025-07-23T15:45:47.483459"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 51.34354288209128, 'memory_usage': 6257.462271779335, 'cache_hit_ratio': 25.0, 'query_throughput': 942}",
+    "timestamp": "2025-07-23T15:45:47.600499"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 84.62714376828617, 'memory_usage': 1783.4774202055778, 'cache_hit_ratio': 25.0, 'query_throughput': 978}",
+    "timestamp": "2025-07-23T15:45:47.703585"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 87.80145311085174, 'memory_usage': 7377.614217951871, 'cache_hit_ratio': 25.0, 'query_throughput': 434}",
+    "timestamp": "2025-07-23T15:45:47.768349"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 45.52257023533385, 'memory_usage': 5908.040985639632, 'cache_hit_ratio': 25.0, 'query_throughput': 508}",
+    "timestamp": "2025-07-23T15:45:47.835200"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 61.37876511499507, 'memory_usage': 7077.206813754918, 'cache_hit_ratio': 24.47, 'query_throughput': 248}",
+    "timestamp": "2025-07-23T15:45:48.691276"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 55.10553285232042, 'memory_usage': 4012.769557851816, 'cache_hit_ratio': 24.47, 'query_throughput': 491}",
+    "timestamp": "2025-07-23T15:45:48.917041"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 35.671703412771166, 'memory_usage': 2610.042276413807, 'cache_hit_ratio': 24.47, 'query_throughput': 922}",
+    "timestamp": "2025-07-23T15:45:48.989327"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 51.44576410158485, 'memory_usage': 1909.5268448592974, 'cache_hit_ratio': 24.47, 'query_throughput': 515}",
+    "timestamp": "2025-07-23T15:45:49.282696"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 25.482758444133722, 'memory_usage': 1975.1915177259448, 'cache_hit_ratio': 25.83, 'query_throughput': 946}",
+    "timestamp": "2025-07-23T15:45:49.868044"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 36.884953478583434, 'memory_usage': 3606.0871977594343, 'cache_hit_ratio': 25.83, 'query_throughput': 503}",
+    "timestamp": "2025-07-23T15:45:50.008883"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 65.16955171946064, 'memory_usage': 1781.3584984060635, 'cache_hit_ratio': 27.58, 'query_throughput': 862}",
+    "timestamp": "2025-07-23T15:45:50.573005"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 82.77616433005231, 'memory_usage': 7939.505947950314, 'cache_hit_ratio': 27.58, 'query_throughput': 657}",
+    "timestamp": "2025-07-23T15:45:51.345985"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 28.782781546713068, 'memory_usage': 6114.42161659428, 'cache_hit_ratio': 27.73, 'query_throughput': 957}",
+    "timestamp": "2025-07-23T15:45:52.323172"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 77.80768808792764, 'memory_usage': 1525.819820473554, 'cache_hit_ratio': 21.56, 'query_throughput': 778}",
+    "timestamp": "2025-07-23T15:45:52.473566"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 10.579313222103162, 'memory_usage': 3630.243204954649, 'cache_hit_ratio': 21.56, 'query_throughput': 604}",
+    "timestamp": "2025-07-23T15:45:52.744860"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 19.677177948714395, 'memory_usage': 3530.7252917093247, 'cache_hit_ratio': 21.56, 'query_throughput': 821}",
+    "timestamp": "2025-07-23T15:45:53.161845"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 13.265227189085964, 'memory_usage': 7068.0709256463, 'cache_hit_ratio': 21.56, 'query_throughput': 995}",
+    "timestamp": "2025-07-23T15:45:53.292092"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 88.08784655605764, 'memory_usage': 5913.04963894607, 'cache_hit_ratio': 28.44, 'query_throughput': 841}",
+    "timestamp": "2025-07-23T15:45:53.458332"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 26.692645583083223, 'memory_usage': 6396.194096095569, 'cache_hit_ratio': 28.44, 'query_throughput': 131}",
+    "timestamp": "2025-07-23T15:45:53.561626"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 83.91100566838561, 'memory_usage': 3185.4201719105326, 'cache_hit_ratio': 28.44, 'query_throughput': 804}",
+    "timestamp": "2025-07-23T15:45:53.824069"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 50.110660743850545, 'memory_usage': 3567.7611499278864, 'cache_hit_ratio': 28.44, 'query_throughput': 192}",
+    "timestamp": "2025-07-23T15:45:54.155666"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 51.6094013426616, 'memory_usage': 2320.6730110982908, 'cache_hit_ratio': 28.44, 'query_throughput': 688}",
+    "timestamp": "2025-07-23T15:45:54.384353"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 12.32160688632364, 'memory_usage': 5812.058421947842, 'cache_hit_ratio': 24.01, 'query_throughput': 209}",
+    "timestamp": "2025-07-23T15:45:55.267466"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 60.11428454780906, 'memory_usage': 4460.060114934842, 'cache_hit_ratio': 24.2, 'query_throughput': 400}",
+    "timestamp": "2025-07-23T15:45:55.486712"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 46.004468910870614, 'memory_usage': 7441.949080667753, 'cache_hit_ratio': 24.2, 'query_throughput': 675}",
+    "timestamp": "2025-07-23T15:45:55.725056"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 46.74494356991265, 'memory_usage': 5673.769217949351, 'cache_hit_ratio': 24.2, 'query_throughput': 425}",
+    "timestamp": "2025-07-23T15:45:55.891071"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 72.55789521695434, 'memory_usage': 2807.144097838329, 'cache_hit_ratio': 24.2, 'query_throughput': 923}",
+    "timestamp": "2025-07-23T15:45:56.287958"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 13.611416700788928, 'memory_usage': 3368.88768463326, 'cache_hit_ratio': 23.78, 'query_throughput': 561}",
+    "timestamp": "2025-07-23T15:45:56.554360"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 11.659153903293342, 'memory_usage': 7331.509711893166, 'cache_hit_ratio': 23.78, 'query_throughput': 541}",
+    "timestamp": "2025-07-23T15:45:56.612392"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 40.29733875566991, 'memory_usage': 1811.6453260375883, 'cache_hit_ratio': 23.78, 'query_throughput': 421}",
+    "timestamp": "2025-07-23T15:45:56.675441"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 74.26656392402383, 'memory_usage': 4481.149826369938, 'cache_hit_ratio': 23.78, 'query_throughput': 119}",
+    "timestamp": "2025-07-23T15:45:56.994919"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 13.014362203584637, 'memory_usage': 6282.374981874143, 'cache_hit_ratio': 160.67, 'query_throughput': 643}",
+    "timestamp": "2025-07-23T15:45:57.667874"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 59.86226691486861, 'memory_usage': 6432.049023728709, 'cache_hit_ratio': 237.56, 'query_throughput': 954}",
+    "timestamp": "2025-07-23T15:45:58.462592"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 13.75685014132154, 'memory_usage': 4114.6414997722495, 'cache_hit_ratio': 237.56, 'query_throughput': 267}",
+    "timestamp": "2025-07-23T15:45:59.363623"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 78.6978871530308, 'memory_usage': 2464.7888676986267, 'cache_hit_ratio': 254.88, 'query_throughput': 298}",
+    "timestamp": "2025-07-23T15:45:59.711051"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 10.86856041088554, 'memory_usage': 1094.9922037555652, 'cache_hit_ratio': 254.88, 'query_throughput': 720}",
+    "timestamp": "2025-07-23T15:46:00.222782"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 55.008321417620564, 'memory_usage': 2138.5388403175734, 'cache_hit_ratio': 221.02, 'query_throughput': 736}",
+    "timestamp": "2025-07-23T15:46:01.639920"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 75.88048044197126, 'memory_usage': 2476.1100612775112, 'cache_hit_ratio': 221.02, 'query_throughput': 913}",
+    "timestamp": "2025-07-23T15:46:02.223374"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 61.89770532562933, 'memory_usage': 6223.128948847726, 'cache_hit_ratio': 221.02, 'query_throughput': 189}",
+    "timestamp": "2025-07-23T15:46:02.429483"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 77.54047979283486, 'memory_usage': 5447.984643260666, 'cache_hit_ratio': 186.05, 'query_throughput': 669}",
+    "timestamp": "2025-07-23T15:46:02.728210"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 28.465722413306878, 'memory_usage': 1329.5856820917925, 'cache_hit_ratio': 186.05, 'query_throughput': 979}",
+    "timestamp": "2025-07-23T15:46:03.072646"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 27.16821130652436, 'memory_usage': 5988.714930131342, 'cache_hit_ratio': 195.49, 'query_throughput': 266}",
+    "timestamp": "2025-07-23T15:46:03.541699"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 18.228738405520374, 'memory_usage': 6795.810018820461, 'cache_hit_ratio': 195.49, 'query_throughput': 380}",
+    "timestamp": "2025-07-23T15:46:04.104154"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 74.71921880387002, 'memory_usage': 5533.121356326193, 'cache_hit_ratio': 195.49, 'query_throughput': 349}",
+    "timestamp": "2025-07-23T15:46:04.373212"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 87.31968413989742, 'memory_usage': 6997.520995772962, 'cache_hit_ratio': 27.45, 'query_throughput': 629}",
+    "timestamp": "2025-07-23T15:46:04.969602"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 72.82276252918085, 'memory_usage': 2888.9857575168, 'cache_hit_ratio': 27.45, 'query_throughput': 793}",
+    "timestamp": "2025-07-23T15:46:05.360862"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 54.19900720623425, 'memory_usage': 7916.277884827225, 'cache_hit_ratio': 34.52, 'query_throughput': 491}",
+    "timestamp": "2025-07-23T15:46:05.888993"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 16.705189285378268, 'memory_usage': 3146.9496021308178, 'cache_hit_ratio': 24.11, 'query_throughput': 335}",
+    "timestamp": "2025-07-23T15:46:06.742101"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 19.60978723002477, 'memory_usage': 4628.842170188543, 'cache_hit_ratio': 24.11, 'query_throughput': 476}",
+    "timestamp": "2025-07-23T15:46:07.122816"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 55.02180135337888, 'memory_usage': 7042.57547251372, 'cache_hit_ratio': 26.08, 'query_throughput': 188}",
+    "timestamp": "2025-07-23T15:46:07.555560"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 24.24238865229575, 'memory_usage': 6056.296027474489, 'cache_hit_ratio': 26.08, 'query_throughput': 575}",
+    "timestamp": "2025-07-23T15:46:07.827742"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 76.7888756751587, 'memory_usage': 1691.76469798303, 'cache_hit_ratio': 14.98, 'query_throughput': 523}",
+    "timestamp": "2025-07-23T15:46:10.393186"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 29.43211048976666, 'memory_usage': 7278.05481222057, 'cache_hit_ratio': 33.58, 'query_throughput': 650}",
+    "timestamp": "2025-07-23T15:46:10.606365"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 29.705976903259508, 'memory_usage': 2812.279712445623, 'cache_hit_ratio': 33.58, 'query_throughput': 130}",
+    "timestamp": "2025-07-23T15:46:11.011335"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 81.04392993150304, 'memory_usage': 5404.110628752056, 'cache_hit_ratio': 25.65, 'query_throughput': 851}",
+    "timestamp": "2025-07-23T15:46:12.052586"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 69.24972432081171, 'memory_usage': 6680.118961203768, 'cache_hit_ratio': 24.95, 'query_throughput': 652}",
+    "timestamp": "2025-07-23T15:46:13.302567"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 13.945907312724666, 'memory_usage': 4397.067105728365, 'cache_hit_ratio': 24.95, 'query_throughput': 599}",
+    "timestamp": "2025-07-23T15:46:13.447543"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 59.86163459766354, 'memory_usage': 5253.949164850273, 'cache_hit_ratio': 23.76, 'query_throughput': 815}",
+    "timestamp": "2025-07-23T15:46:13.817793"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 71.47560063138059, 'memory_usage': 1816.0711600361258, 'cache_hit_ratio': 23.76, 'query_throughput': 213}",
+    "timestamp": "2025-07-23T15:46:14.430582"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 52.54411796352133, 'memory_usage': 2121.269899981211, 'cache_hit_ratio': 21.21, 'query_throughput': 385}",
+    "timestamp": "2025-07-23T15:46:14.638881"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 34.55843110446175, 'memory_usage': 5550.438672561799, 'cache_hit_ratio': 21.21, 'query_throughput': 282}",
+    "timestamp": "2025-07-23T15:46:14.903969"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 43.97602520074188, 'memory_usage': 5964.147605793324, 'cache_hit_ratio': 21.21, 'query_throughput': 152}",
+    "timestamp": "2025-07-23T15:46:14.957437"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 26.80100011566499, 'memory_usage': 4209.428625112414, 'cache_hit_ratio': 21.21, 'query_throughput': 821}",
+    "timestamp": "2025-07-23T15:46:15.189750"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 86.80084648182047, 'memory_usage': 2442.6573666558606, 'cache_hit_ratio': 21.21, 'query_throughput': 448}",
+    "timestamp": "2025-07-23T15:46:15.282900"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 78.82892811416482, 'memory_usage': 3399.536655941363, 'cache_hit_ratio': 28.02, 'query_throughput': 968}",
+    "timestamp": "2025-07-23T15:46:15.602471"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 18.784999432794336, 'memory_usage': 2756.1560954384927, 'cache_hit_ratio': 28.02, 'query_throughput': 857}",
+    "timestamp": "2025-07-23T15:46:16.044175"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 74.37364812483573, 'memory_usage': 3341.842084674417, 'cache_hit_ratio': 28.02, 'query_throughput': 893}",
+    "timestamp": "2025-07-23T15:46:16.521379"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 79.62892595254803, 'memory_usage': 2719.659333498521, 'cache_hit_ratio': 22.4, 'query_throughput': 922}",
+    "timestamp": "2025-07-23T15:46:16.735794"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 20.02554731798852, 'memory_usage': 6792.391305793819, 'cache_hit_ratio': 12.14, 'query_throughput': 622}",
+    "timestamp": "2025-07-23T15:46:21.038432"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 19.10528020362234, 'memory_usage': 6245.031740808303, 'cache_hit_ratio': 12.14, 'query_throughput': 426}",
+    "timestamp": "2025-07-23T15:46:21.258414"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 46.009274006167374, 'memory_usage': 6823.076915833578, 'cache_hit_ratio': 35.51, 'query_throughput': 930}",
+    "timestamp": "2025-07-23T15:46:21.676204"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 69.94897634112985, 'memory_usage': 1052.798351051301, 'cache_hit_ratio': 35.51, 'query_throughput': 717}",
+    "timestamp": "2025-07-23T15:46:21.944804"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 18.440929111210203, 'memory_usage': 2018.0227795954288, 'cache_hit_ratio': 35.51, 'query_throughput': 700}",
+    "timestamp": "2025-07-23T15:46:22.239097"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 14.042400652392502, 'memory_usage': 6974.67343332431, 'cache_hit_ratio': 22.53, 'query_throughput': 758}",
+    "timestamp": "2025-07-23T15:46:23.121544"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 61.49482993832133, 'memory_usage': 4907.30006438326, 'cache_hit_ratio': 25.14, 'query_throughput': 486}",
+    "timestamp": "2025-07-23T15:46:24.521969"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 63.645120404505676, 'memory_usage': 6217.611502397948, 'cache_hit_ratio': 52.21, 'query_throughput': 932}",
+    "timestamp": "2025-07-23T15:46:24.643320"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 62.426723683861695, 'memory_usage': 1934.545505386619, 'cache_hit_ratio': 52.21, 'query_throughput': 604}",
+    "timestamp": "2025-07-23T15:46:24.923657"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 48.784523371781134, 'memory_usage': 6969.415749941551, 'cache_hit_ratio': 52.21, 'query_throughput': 491}",
+    "timestamp": "2025-07-23T15:46:25.055674"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 50.07395270024328, 'memory_usage': 2062.1854704007, 'cache_hit_ratio': 52.21, 'query_throughput': 485}",
+    "timestamp": "2025-07-23T15:46:25.182174"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 76.63914447660073, 'memory_usage': 6538.531512932152, 'cache_hit_ratio': 52.21, 'query_throughput': 483}",
+    "timestamp": "2025-07-23T15:46:25.342437"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 60.41263076202728, 'memory_usage': 7161.6896351281475, 'cache_hit_ratio': 15.95, 'query_throughput': 609}",
+    "timestamp": "2025-07-23T15:46:28.422577"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 30.50410204780843, 'memory_usage': 6183.768748562161, 'cache_hit_ratio': 9.95, 'query_throughput': 796}",
+    "timestamp": "2025-07-23T15:46:28.661695"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 40.3523125343298, 'memory_usage': 2873.5871413927766, 'cache_hit_ratio': 9.95, 'query_throughput': 759}",
+    "timestamp": "2025-07-23T15:46:28.860562"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 30.44938592921591, 'memory_usage': 5497.042450658191, 'cache_hit_ratio': 9.95, 'query_throughput': 276}",
+    "timestamp": "2025-07-23T15:46:29.552813"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 60.57544036305246, 'memory_usage': 1960.4360694851177, 'cache_hit_ratio': 9.95, 'query_throughput': 376}",
+    "timestamp": "2025-07-23T15:46:29.619753"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 54.01507143506386, 'memory_usage': 4249.326344009722, 'cache_hit_ratio': 22.93, 'query_throughput': 520}",
+    "timestamp": "2025-07-23T15:46:29.786300"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 59.48105283364601, 'memory_usage': 2365.0707275106497, 'cache_hit_ratio': 22.93, 'query_throughput': 769}",
+    "timestamp": "2025-07-23T15:46:29.980079"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 22.77247919825119, 'memory_usage': 2619.055606818074, 'cache_hit_ratio': 22.93, 'query_throughput': 349}",
+    "timestamp": "2025-07-23T15:46:30.211172"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 64.85986096460488, 'memory_usage': 2836.239554980135, 'cache_hit_ratio': 22.93, 'query_throughput': 803}",
+    "timestamp": "2025-07-23T15:46:30.324942"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 42.8962708718454, 'memory_usage': 2206.465001101949, 'cache_hit_ratio': 24.74, 'query_throughput': 126}",
+    "timestamp": "2025-07-23T15:46:30.804660"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 12.385881820778577, 'memory_usage': 3528.167774132747, 'cache_hit_ratio': 24.74, 'query_throughput': 469}",
+    "timestamp": "2025-07-23T15:46:31.467387"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 35.76518930332141, 'memory_usage': 5169.6347434259305, 'cache_hit_ratio': 21.9, 'query_throughput': 368}",
+    "timestamp": "2025-07-23T15:46:31.726958"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 75.09162647217936, 'memory_usage': 5196.597347745398, 'cache_hit_ratio': 21.9, 'query_throughput': 142}",
+    "timestamp": "2025-07-23T15:46:31.923844"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 15.949690374651393, 'memory_usage': 7846.352639267283, 'cache_hit_ratio': 21.9, 'query_throughput': 906}",
+    "timestamp": "2025-07-23T15:46:32.163652"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 74.01548572862153, 'memory_usage': 5593.348226710972, 'cache_hit_ratio': 21.9, 'query_throughput': 289}",
+    "timestamp": "2025-07-23T15:46:32.374690"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 43.885902480021116, 'memory_usage': 2725.402581927293, 'cache_hit_ratio': 24.14, 'query_throughput': 194}",
+    "timestamp": "2025-07-23T15:46:32.930945"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 20.13255262367747, 'memory_usage': 4038.0284735432024, 'cache_hit_ratio': 24.14, 'query_throughput': 695}",
+    "timestamp": "2025-07-23T15:46:33.110197"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 59.80157843824331, 'memory_usage': 1866.7962668023888, 'cache_hit_ratio': 24.14, 'query_throughput': 482}",
+    "timestamp": "2025-07-23T15:46:33.376863"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 56.399609545694744, 'memory_usage': 1406.9282722546218, 'cache_hit_ratio': 20.8, 'query_throughput': 565}",
+    "timestamp": "2025-07-23T15:46:33.705033"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 42.90536106908955, 'memory_usage': 5516.123032734715, 'cache_hit_ratio': 20.8, 'query_throughput': 204}",
+    "timestamp": "2025-07-23T15:46:34.103818"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 52.81954886143752, 'memory_usage': 3743.104503139884, 'cache_hit_ratio': 20.8, 'query_throughput': 281}",
+    "timestamp": "2025-07-23T15:46:34.387884"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 50.0078281805824, 'memory_usage': 7875.822780285311, 'cache_hit_ratio': 22.6, 'query_throughput': 660}",
+    "timestamp": "2025-07-23T15:46:35.110045"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 84.15025262071408, 'memory_usage': 1360.0035936415643, 'cache_hit_ratio': 12.78, 'query_throughput': 811}",
+    "timestamp": "2025-07-23T15:46:37.919175"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 44.854804471069286, 'memory_usage': 2886.9063024356683, 'cache_hit_ratio': 12.78, 'query_throughput': 619}",
+    "timestamp": "2025-07-23T15:46:38.178731"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 82.19125553174456, 'memory_usage': 4496.898185921224, 'cache_hit_ratio': 12.78, 'query_throughput': 220}",
+    "timestamp": "2025-07-23T15:46:38.337325"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 67.11790385194755, 'memory_usage': 6044.5940290130475, 'cache_hit_ratio': 12.78, 'query_throughput': 663}",
+    "timestamp": "2025-07-23T15:46:38.593378"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 80.45663019463, 'memory_usage': 7919.761700382394, 'cache_hit_ratio': 37.81, 'query_throughput': 330}",
+    "timestamp": "2025-07-23T15:46:38.938258"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 81.14552799418456, 'memory_usage': 1677.8663604542194, 'cache_hit_ratio': 11.34, 'query_throughput': 194}",
+    "timestamp": "2025-07-23T15:46:42.628018"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 22.197419861753723, 'memory_usage': 1958.217620034368, 'cache_hit_ratio': 11.34, 'query_throughput': 388}",
+    "timestamp": "2025-07-23T15:46:42.737475"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 53.40993220662199, 'memory_usage': 2430.621912451522, 'cache_hit_ratio': 58.48, 'query_throughput': 206}",
+    "timestamp": "2025-07-23T15:46:43.292650"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 35.19128553970188, 'memory_usage': 5117.329081649463, 'cache_hit_ratio': 58.48, 'query_throughput': 601}",
+    "timestamp": "2025-07-23T15:46:43.361117"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 57.990359823855506, 'memory_usage': 6469.260785088849, 'cache_hit_ratio': 58.48, 'query_throughput': 700}",
+    "timestamp": "2025-07-23T15:46:43.464283"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 74.1873492503185, 'memory_usage': 7654.471327602531, 'cache_hit_ratio': 58.48, 'query_throughput': 153}",
+    "timestamp": "2025-07-23T15:46:43.555244"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 59.95146901373303, 'memory_usage': 7148.923397960794, 'cache_hit_ratio': 18.52, 'query_throughput': 572}",
+    "timestamp": "2025-07-23T15:46:43.810279"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 11.259333600875268, 'memory_usage': 2088.5321095135905, 'cache_hit_ratio': 18.52, 'query_throughput': 156}",
+    "timestamp": "2025-07-23T15:46:44.221033"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 27.08089441253982, 'memory_usage': 3086.1059749566916, 'cache_hit_ratio': 18.52, 'query_throughput': 840}",
+    "timestamp": "2025-07-23T15:46:44.355667"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 75.58227806905074, 'memory_usage': 6638.7611005626095, 'cache_hit_ratio': 18.52, 'query_throughput': 446}",
+    "timestamp": "2025-07-23T15:46:44.544519"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 53.47428694122077, 'memory_usage': 2566.254544566081, 'cache_hit_ratio': 18.3, 'query_throughput': 971}",
+    "timestamp": "2025-07-23T15:46:44.859101"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 11.432027143354446, 'memory_usage': 7224.325984936149, 'cache_hit_ratio': 18.3, 'query_throughput': 499}",
+    "timestamp": "2025-07-23T15:46:45.078521"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 68.96219993296256, 'memory_usage': 7833.545349600755, 'cache_hit_ratio': 18.3, 'query_throughput': 572}",
+    "timestamp": "2025-07-23T15:46:45.293583"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 46.49436200548142, 'memory_usage': 5039.788626449061, 'cache_hit_ratio': 18.3, 'query_throughput': 857}",
+    "timestamp": "2025-07-23T15:46:45.479067"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 42.003413568666005, 'memory_usage': 6404.502006838493, 'cache_hit_ratio': 18.3, 'query_throughput': 166}",
+    "timestamp": "2025-07-23T15:46:45.643450"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 73.34097248023994, 'memory_usage': 5790.994323293855, 'cache_hit_ratio': 21.63, 'query_throughput': 192}",
+    "timestamp": "2025-07-23T15:46:45.798519"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 82.65208639668238, 'memory_usage': 4676.440662849313, 'cache_hit_ratio': 21.63, 'query_throughput': 379}",
+    "timestamp": "2025-07-23T15:46:45.879890"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 37.30315119211, 'memory_usage': 7484.849809440156, 'cache_hit_ratio': 21.63, 'query_throughput': 952}",
+    "timestamp": "2025-07-23T15:46:46.156244"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 23.88670568554833, 'memory_usage': 2724.93426949345, 'cache_hit_ratio': 21.63, 'query_throughput': 315}",
+    "timestamp": "2025-07-23T15:46:46.473658"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 80.2533277763919, 'memory_usage': 4394.550481994764, 'cache_hit_ratio': 21.63, 'query_throughput': 400}",
+    "timestamp": "2025-07-23T15:46:46.620835"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 22.46657468431654, 'memory_usage': 5298.510971147195, 'cache_hit_ratio': 21.36, 'query_throughput': 298}",
+    "timestamp": "2025-07-23T15:46:47.127316"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 26.10117282697365, 'memory_usage': 5917.730186226495, 'cache_hit_ratio': 21.36, 'query_throughput': 101}",
+    "timestamp": "2025-07-23T15:46:47.342457"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 34.25621712761033, 'memory_usage': 3944.88199289906, 'cache_hit_ratio': 21.36, 'query_throughput': 612}",
+    "timestamp": "2025-07-23T15:46:47.521273"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 77.61657037424004, 'memory_usage': 4247.202306526465, 'cache_hit_ratio': 19.04, 'query_throughput': 326}",
+    "timestamp": "2025-07-23T15:46:47.820627"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 87.13916813710864, 'memory_usage': 1815.4223413316859, 'cache_hit_ratio': 19.04, 'query_throughput': 935}",
+    "timestamp": "2025-07-23T15:46:48.310254"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 29.784021583767306, 'memory_usage': 2005.8932156106735, 'cache_hit_ratio': 19.04, 'query_throughput': 456}",
+    "timestamp": "2025-07-23T15:46:48.503932"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 69.38792689740214, 'memory_usage': 6605.853230119072, 'cache_hit_ratio': 17.51, 'query_throughput': 683}",
+    "timestamp": "2025-07-23T15:46:49.026139"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 49.968032746925346, 'memory_usage': 2698.4500792294434, 'cache_hit_ratio': 17.51, 'query_throughput': 537}",
+    "timestamp": "2025-07-23T15:46:49.104358"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 71.03498496147452, 'memory_usage': 4095.2279922973134, 'cache_hit_ratio': 17.51, 'query_throughput': 280}",
+    "timestamp": "2025-07-23T15:46:49.304377"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 61.428801753817226, 'memory_usage': 4464.908817236841, 'cache_hit_ratio': 16.12, 'query_throughput': 413}",
+    "timestamp": "2025-07-23T15:46:50.072992"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 76.1089157486013, 'memory_usage': 6312.593375454047, 'cache_hit_ratio': 16.12, 'query_throughput': 910}",
+    "timestamp": "2025-07-23T15:46:50.276034"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 88.80822343876807, 'memory_usage': 4776.259927443503, 'cache_hit_ratio': 16.12, 'query_throughput': 844}",
+    "timestamp": "2025-07-23T15:46:50.453604"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 69.69458340280602, 'memory_usage': 3562.94664198926, 'cache_hit_ratio': 23.24, 'query_throughput': 296}",
+    "timestamp": "2025-07-23T15:46:51.009132"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 60.54990277078447, 'memory_usage': 4989.990212453691, 'cache_hit_ratio': 23.24, 'query_throughput': 986}",
+    "timestamp": "2025-07-23T15:46:51.329227"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 60.39628285237193, 'memory_usage': 1543.572106252605, 'cache_hit_ratio': 23.24, 'query_throughput': 221}",
+    "timestamp": "2025-07-23T15:46:51.443839"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 42.540826712470114, 'memory_usage': 7556.778847497025, 'cache_hit_ratio': 23.24, 'query_throughput': 528}",
+    "timestamp": "2025-07-23T15:46:51.543439"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 33.14369450487426, 'memory_usage': 3997.944376695831, 'cache_hit_ratio': 23.24, 'query_throughput': 600}",
+    "timestamp": "2025-07-23T15:46:51.746161"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 12.79468617443734, 'memory_usage': 2368.7452314648863, 'cache_hit_ratio': 19.92, 'query_throughput': 511}",
+    "timestamp": "2025-07-23T15:46:51.840803"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 79.20394879425771, 'memory_usage': 4997.438948916623, 'cache_hit_ratio': 19.92, 'query_throughput': 292}",
+    "timestamp": "2025-07-23T15:46:52.108656"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 34.623093787079284, 'memory_usage': 4719.967533080854, 'cache_hit_ratio': 19.92, 'query_throughput': 425}",
+    "timestamp": "2025-07-23T15:46:52.426297"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 44.92395430999926, 'memory_usage': 2873.247970259015, 'cache_hit_ratio': 19.92, 'query_throughput': 723}",
+    "timestamp": "2025-07-23T15:46:52.543694"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 11.565680754036247, 'memory_usage': 6688.444127533868, 'cache_hit_ratio': 19.92, 'query_throughput': 603}",
+    "timestamp": "2025-07-23T15:46:52.650910"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 20.915745045102607, 'memory_usage': 4550.72631695759, 'cache_hit_ratio': 18.37, 'query_throughput': 675}",
+    "timestamp": "2025-07-23T15:46:52.904852"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 54.2320549574018, 'memory_usage': 5620.095669768741, 'cache_hit_ratio': 18.37, 'query_throughput': 346}",
+    "timestamp": "2025-07-23T15:46:53.193139"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 73.23195988223304, 'memory_usage': 6096.858817955961, 'cache_hit_ratio': 18.37, 'query_throughput': 745}",
+    "timestamp": "2025-07-23T15:46:53.373876"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 36.93932179259786, 'memory_usage': 2042.406191049076, 'cache_hit_ratio': 18.37, 'query_throughput': 753}",
+    "timestamp": "2025-07-23T15:46:53.742177"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 22.742533609840603, 'memory_usage': 2586.129774008929, 'cache_hit_ratio': 18.48, 'query_throughput': 687}",
+    "timestamp": "2025-07-23T15:46:53.987075"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 86.46771056369599, 'memory_usage': 4998.729222341821, 'cache_hit_ratio': 18.48, 'query_throughput': 240}",
+    "timestamp": "2025-07-23T15:46:54.288310"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 14.41648820272861, 'memory_usage': 2701.3658551405033, 'cache_hit_ratio': 18.48, 'query_throughput': 995}",
+    "timestamp": "2025-07-23T15:46:54.376196"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 34.440719153577255, 'memory_usage': 1823.2826253592502, 'cache_hit_ratio': 18.48, 'query_throughput': 690}",
+    "timestamp": "2025-07-23T15:46:54.731768"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 13.28487458911006, 'memory_usage': 7806.931538107229, 'cache_hit_ratio': 17.33, 'query_throughput': 104}",
+    "timestamp": "2025-07-23T15:46:54.852854"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 76.73511204808806, 'memory_usage': 7900.351656440194, 'cache_hit_ratio': 17.33, 'query_throughput': 360}",
+    "timestamp": "2025-07-23T15:46:55.003476"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 65.06500073000956, 'memory_usage': 2611.8587546414255, 'cache_hit_ratio': 17.33, 'query_throughput': 160}",
+    "timestamp": "2025-07-23T15:46:55.267375"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 84.50203792177858, 'memory_usage': 6156.8073030896285, 'cache_hit_ratio': 17.33, 'query_throughput': 888}",
+    "timestamp": "2025-07-23T15:46:55.481577"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 85.79937862435895, 'memory_usage': 2187.5579044155106, 'cache_hit_ratio': 17.33, 'query_throughput': 781}",
+    "timestamp": "2025-07-23T15:46:55.673282"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 83.85719461760799, 'memory_usage': 6405.030013716011, 'cache_hit_ratio': 23.67, 'query_throughput': 720}",
+    "timestamp": "2025-07-23T15:46:55.976177"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 54.394229857659006, 'memory_usage': 5538.468168773682, 'cache_hit_ratio': 23.67, 'query_throughput': 397}",
+    "timestamp": "2025-07-23T15:46:56.240668"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 51.48365621345084, 'memory_usage': 7026.9114866563, 'cache_hit_ratio': 23.67, 'query_throughput': 922}",
+    "timestamp": "2025-07-23T15:46:56.400674"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 53.5763085949722, 'memory_usage': 2733.914912931077, 'cache_hit_ratio': 23.67, 'query_throughput': 540}",
+    "timestamp": "2025-07-23T15:46:56.576593"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 31.952335655923534, 'memory_usage': 2214.292271393476, 'cache_hit_ratio': 15.81, 'query_throughput': 320}",
+    "timestamp": "2025-07-23T15:46:57.370423"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 41.32377015174391, 'memory_usage': 2165.7429200028337, 'cache_hit_ratio': 15.81, 'query_throughput': 537}",
+    "timestamp": "2025-07-23T15:46:57.526587"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 11.131489853819128, 'memory_usage': 6514.8477841217755, 'cache_hit_ratio': 15.81, 'query_throughput': 837}",
+    "timestamp": "2025-07-23T15:46:57.791134"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 36.22517552659315, 'memory_usage': 5626.8521924559755, 'cache_hit_ratio': 16.64, 'query_throughput': 517}",
+    "timestamp": "2025-07-23T15:46:57.898820"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 44.5860987372305, 'memory_usage': 1784.7584086831134, 'cache_hit_ratio': 16.64, 'query_throughput': 623}",
+    "timestamp": "2025-07-23T15:46:58.053443"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 83.291934355253, 'memory_usage': 4045.4412242795156, 'cache_hit_ratio': 16.64, 'query_throughput': 170}",
+    "timestamp": "2025-07-23T15:46:58.408683"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 78.0829614855584, 'memory_usage': 7520.219566841387, 'cache_hit_ratio': 19.24, 'query_throughput': 491}",
+    "timestamp": "2025-07-23T15:46:58.869880"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 69.71709776218549, 'memory_usage': 2399.1247718774166, 'cache_hit_ratio': 19.24, 'query_throughput': 861}",
+    "timestamp": "2025-07-23T15:46:59.087222"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 57.61799604546715, 'memory_usage': 2898.529093256114, 'cache_hit_ratio': 19.24, 'query_throughput': 767}",
+    "timestamp": "2025-07-23T15:46:59.385232"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 77.12754820260214, 'memory_usage': 6754.931254301046, 'cache_hit_ratio': 19.24, 'query_throughput': 300}",
+    "timestamp": "2025-07-23T15:46:59.558838"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 65.18805394647792, 'memory_usage': 4979.253466638338, 'cache_hit_ratio': 19.24, 'query_throughput': 599}",
+    "timestamp": "2025-07-23T15:46:59.769543"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 45.739841693572956, 'memory_usage': 6507.425912371772, 'cache_hit_ratio': 17.16, 'query_throughput': 598}",
+    "timestamp": "2025-07-23T15:47:00.307057"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 54.14163681349646, 'memory_usage': 6037.544060410549, 'cache_hit_ratio': 18.57, 'query_throughput': 794}",
+    "timestamp": "2025-07-23T15:47:00.892148"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 13.341072876662867, 'memory_usage': 2998.9926545198814, 'cache_hit_ratio': 18.57, 'query_throughput': 671}",
+    "timestamp": "2025-07-23T15:47:01.059598"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 57.72609698327051, 'memory_usage': 2307.9777847537716, 'cache_hit_ratio': 18.57, 'query_throughput': 308}",
+    "timestamp": "2025-07-23T15:47:01.220596"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 34.934844350465255, 'memory_usage': 3510.585465151224, 'cache_hit_ratio': 18.57, 'query_throughput': 977}",
+    "timestamp": "2025-07-23T15:47:01.353523"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 28.486051899376406, 'memory_usage': 5535.922319170378, 'cache_hit_ratio': 18.57, 'query_throughput': 187}",
+    "timestamp": "2025-07-23T15:47:01.425696"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 51.07803638764774, 'memory_usage': 7537.811373568661, 'cache_hit_ratio': 18.57, 'query_throughput': 683}",
+    "timestamp": "2025-07-23T15:47:01.699891"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 42.78732087779066, 'memory_usage': 2217.2677703005993, 'cache_hit_ratio': 12.41, 'query_throughput': 127}",
+    "timestamp": "2025-07-23T15:47:02.187346"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 44.58692473665408, 'memory_usage': 3166.273567043899, 'cache_hit_ratio': 14.91, 'query_throughput': 762}",
+    "timestamp": "2025-07-23T15:47:03.351406"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 73.80697345722041, 'memory_usage': 4597.4473092660355, 'cache_hit_ratio': 14.91, 'query_throughput': 592}",
+    "timestamp": "2025-07-23T15:47:03.716971"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 37.466152641178006, 'memory_usage': 2751.718769061868, 'cache_hit_ratio': 15.4, 'query_throughput': 649}",
+    "timestamp": "2025-07-23T15:47:03.953991"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 80.05648833844269, 'memory_usage': 7673.473199489712, 'cache_hit_ratio': 15.4, 'query_throughput': 783}",
+    "timestamp": "2025-07-23T15:47:04.805688"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 58.455499385124845, 'memory_usage': 5458.5284762234805, 'cache_hit_ratio': 12.65, 'query_throughput': 430}",
+    "timestamp": "2025-07-23T15:47:05.322870"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 26.15091886204685, 'memory_usage': 4417.856675087873, 'cache_hit_ratio': 12.65, 'query_throughput': 424}",
+    "timestamp": "2025-07-23T15:47:05.835436"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 82.73182307567527, 'memory_usage': 4121.452206375721, 'cache_hit_ratio': 207.93, 'query_throughput': 308}",
+    "timestamp": "2025-07-23T15:47:06.152467"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 86.0243209922648, 'memory_usage': 4700.005813316325, 'cache_hit_ratio': 207.93, 'query_throughput': 747}",
+    "timestamp": "2025-07-23T15:47:06.807698"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 53.68981086727086, 'memory_usage': 2635.992724689341, 'cache_hit_ratio': 207.8, 'query_throughput': 864}",
+    "timestamp": "2025-07-23T15:47:07.203516"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 69.23738137672609, 'memory_usage': 2310.3011123749, 'cache_hit_ratio': 207.8, 'query_throughput': 353}",
+    "timestamp": "2025-07-23T15:47:07.355317"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 61.428955205270626, 'memory_usage': 6558.5809575752755, 'cache_hit_ratio': 255.99, 'query_throughput': 963}",
+    "timestamp": "2025-07-23T15:47:08.290709"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 20.031180933940735, 'memory_usage': 2751.185691023222, 'cache_hit_ratio': 255.99, 'query_throughput': 109}",
+    "timestamp": "2025-07-23T15:47:08.503817"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 18.08329723652924, 'memory_usage': 4912.788521632492, 'cache_hit_ratio': 235.79, 'query_throughput': 257}",
+    "timestamp": "2025-07-23T15:47:09.237310"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 69.34783788526556, 'memory_usage': 3731.948953527903, 'cache_hit_ratio': 235.79, 'query_throughput': 692}",
+    "timestamp": "2025-07-23T15:47:09.871714"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 80.44676879234628, 'memory_usage': 4550.226513092444, 'cache_hit_ratio': 238.24, 'query_throughput': 594}",
+    "timestamp": "2025-07-23T15:47:10.253003"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 11.98808211054577, 'memory_usage': 3906.1074958080185, 'cache_hit_ratio': 110.01, 'query_throughput': 487}",
+    "timestamp": "2025-07-23T15:47:11.092175"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 83.236767757102, 'memory_usage': 1680.458893129677, 'cache_hit_ratio': 110.01, 'query_throughput': 976}",
+    "timestamp": "2025-07-23T15:47:11.520813"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 22.157447545267264, 'memory_usage': 3320.839063659509, 'cache_hit_ratio': 23.96, 'query_throughput': 525}",
+    "timestamp": "2025-07-23T15:47:11.961791"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 84.8659520854088, 'memory_usage': 4564.133779964903, 'cache_hit_ratio': 23.96, 'query_throughput': 114}",
+    "timestamp": "2025-07-23T15:47:12.387363"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 44.754630444401144, 'memory_usage': 2939.409255187704, 'cache_hit_ratio': 23.96, 'query_throughput': 724}",
+    "timestamp": "2025-07-23T15:47:12.570738"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 66.6421935113326, 'memory_usage': 2616.9495574000202, 'cache_hit_ratio': 23.96, 'query_throughput': 1000}",
+    "timestamp": "2025-07-23T15:47:12.749979"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 49.535290773091006, 'memory_usage': 4279.8839487939495, 'cache_hit_ratio': 21.91, 'query_throughput': 835}",
+    "timestamp": "2025-07-23T15:47:13.058707"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 63.32277685882545, 'memory_usage': 1817.8368873507154, 'cache_hit_ratio': 21.91, 'query_throughput': 415}",
+    "timestamp": "2025-07-23T15:47:13.192316"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 33.65115334643353, 'memory_usage': 4639.602696053406, 'cache_hit_ratio': 21.91, 'query_throughput': 542}",
+    "timestamp": "2025-07-23T15:47:13.426204"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 75.21088910367413, 'memory_usage': 6906.161592027139, 'cache_hit_ratio': 21.91, 'query_throughput': 292}",
+    "timestamp": "2025-07-23T15:47:13.546761"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 54.73166442042491, 'memory_usage': 7600.743188176849, 'cache_hit_ratio': 21.37, 'query_throughput': 535}",
+    "timestamp": "2025-07-23T15:47:14.139795"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 68.29276992041926, 'memory_usage': 3882.635284087715, 'cache_hit_ratio': 21.37, 'query_throughput': 612}",
+    "timestamp": "2025-07-23T15:47:14.708077"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 36.640174450709665, 'memory_usage': 1426.890266925398, 'cache_hit_ratio': 21.2, 'query_throughput': 574}",
+    "timestamp": "2025-07-23T15:47:15.375587"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 79.4829839419346, 'memory_usage': 3271.2792210012876, 'cache_hit_ratio': 32.37, 'query_throughput': 343}",
+    "timestamp": "2025-07-23T15:47:16.524721"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 25.079316256991284, 'memory_usage': 7426.26513313822, 'cache_hit_ratio': 32.37, 'query_throughput': 878}",
+    "timestamp": "2025-07-23T15:47:16.836228"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 69.33869531005809, 'memory_usage': 4891.077440771882, 'cache_hit_ratio': 18.8, 'query_throughput': 533}",
+    "timestamp": "2025-07-23T15:47:17.174454"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 64.67113162788331, 'memory_usage': 3774.4720566811416, 'cache_hit_ratio': 18.8, 'query_throughput': 912}",
+    "timestamp": "2025-07-23T15:47:17.320383"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 50.25035167907454, 'memory_usage': 4572.800895827582, 'cache_hit_ratio': 18.8, 'query_throughput': 806}",
+    "timestamp": "2025-07-23T15:47:17.970152"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 27.128221036127282, 'memory_usage': 6178.198913107397, 'cache_hit_ratio': 20.62, 'query_throughput': 164}",
+    "timestamp": "2025-07-23T15:47:18.109028"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 62.895061491493834, 'memory_usage': 4562.4530507562185, 'cache_hit_ratio': 20.62, 'query_throughput': 292}",
+    "timestamp": "2025-07-23T15:47:18.239200"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 13.233344033944174, 'memory_usage': 2682.2543699455555, 'cache_hit_ratio': 20.62, 'query_throughput': 848}",
+    "timestamp": "2025-07-23T15:47:18.470044"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 82.45102812604755, 'memory_usage': 6396.671677019947, 'cache_hit_ratio': 20.62, 'query_throughput': 665}",
+    "timestamp": "2025-07-23T15:47:18.943787"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 83.25301906580677, 'memory_usage': 2260.2794897436215, 'cache_hit_ratio': 25.56, 'query_throughput': 663}",
+    "timestamp": "2025-07-23T15:47:20.000700"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 28.214658391800445, 'memory_usage': 1504.9897197573782, 'cache_hit_ratio': 22.96, 'query_throughput': 812}",
+    "timestamp": "2025-07-23T15:47:20.224590"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 18.819928743345173, 'memory_usage': 1233.3409274064397, 'cache_hit_ratio': 22.96, 'query_throughput': 615}",
+    "timestamp": "2025-07-23T15:47:20.557321"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 76.90225351325283, 'memory_usage': 2818.9991130907383, 'cache_hit_ratio': 23.96, 'query_throughput': 165}",
+    "timestamp": "2025-07-23T15:47:21.175061"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 77.84507705221012, 'memory_usage': 1591.0086961864608, 'cache_hit_ratio': 23.96, 'query_throughput': 652}",
+    "timestamp": "2025-07-23T15:47:21.363489"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 75.31658764992892, 'memory_usage': 1178.7783873442281, 'cache_hit_ratio': 20.92, 'query_throughput': 716}",
+    "timestamp": "2025-07-23T15:47:22.057219"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 81.6776448869083, 'memory_usage': 6713.011312974916, 'cache_hit_ratio': 20.92, 'query_throughput': 565}",
+    "timestamp": "2025-07-23T15:47:22.708710"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 78.04559977759251, 'memory_usage': 6236.086213882726, 'cache_hit_ratio': 20.92, 'query_throughput': 105}",
+    "timestamp": "2025-07-23T15:47:22.871037"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 86.95721907985461, 'memory_usage': 7449.59546320986, 'cache_hit_ratio': 16.55, 'query_throughput': 226}",
+    "timestamp": "2025-07-23T15:47:23.341720"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 24.825838024803744, 'memory_usage': 2860.467565187985, 'cache_hit_ratio': 16.55, 'query_throughput': 211}",
+    "timestamp": "2025-07-23T15:47:23.668773"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 21.7207316388848, 'memory_usage': 3062.760775750497, 'cache_hit_ratio': 21.69, 'query_throughput': 188}",
+    "timestamp": "2025-07-23T15:47:24.190683"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 52.187343280412634, 'memory_usage': 1743.8060857859782, 'cache_hit_ratio': 21.69, 'query_throughput': 997}",
+    "timestamp": "2025-07-23T15:47:24.825978"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 85.77142585175014, 'memory_usage': 2339.2659489132297, 'cache_hit_ratio': 15.88, 'query_throughput': 816}",
+    "timestamp": "2025-07-23T15:47:25.105910"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 85.01485517428483, 'memory_usage': 4686.964772004441, 'cache_hit_ratio': 15.88, 'query_throughput': 774}",
+    "timestamp": "2025-07-23T15:47:25.233832"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 10.432760477559304, 'memory_usage': 5743.297277524256, 'cache_hit_ratio': 15.88, 'query_throughput': 845}",
+    "timestamp": "2025-07-23T15:47:25.519148"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 30.88011122879304, 'memory_usage': 6321.536246062558, 'cache_hit_ratio': 15.88, 'query_throughput': 688}",
+    "timestamp": "2025-07-23T15:47:25.752386"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 29.0438140456218, 'memory_usage': 3520.51941550193, 'cache_hit_ratio': 15.88, 'query_throughput': 957}",
+    "timestamp": "2025-07-23T15:47:25.986177"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 48.367526635993734, 'memory_usage': 3112.9520579687432, 'cache_hit_ratio': 23.73, 'query_throughput': 528}",
+    "timestamp": "2025-07-23T15:47:26.069706"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 89.68554359236495, 'memory_usage': 5724.402855424121, 'cache_hit_ratio': 23.73, 'query_throughput': 575}",
+    "timestamp": "2025-07-23T15:47:26.486541"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 53.9195002231419, 'memory_usage': 1560.5795429965829, 'cache_hit_ratio': 23.73, 'query_throughput': 841}",
+    "timestamp": "2025-07-23T15:47:26.907313"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 88.50922052124852, 'memory_usage': 7100.237611550377, 'cache_hit_ratio': 19.07, 'query_throughput': 484}",
+    "timestamp": "2025-07-23T15:47:27.445089"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 48.25337690013377, 'memory_usage': 5460.349286452547, 'cache_hit_ratio': 19.07, 'query_throughput': 850}",
+    "timestamp": "2025-07-23T15:47:27.643213"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 23.197672950853246, 'memory_usage': 6272.948701548677, 'cache_hit_ratio': 19.07, 'query_throughput': 284}",
+    "timestamp": "2025-07-23T15:47:27.967264"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 16.495175960422, 'memory_usage': 4864.720585361403, 'cache_hit_ratio': 16.42, 'query_throughput': 451}",
+    "timestamp": "2025-07-23T15:47:28.247807"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 68.21930152666852, 'memory_usage': 4023.549014759282, 'cache_hit_ratio': 16.42, 'query_throughput': 876}",
+    "timestamp": "2025-07-23T15:47:28.415919"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 27.948600872221874, 'memory_usage': 5733.994217401331, 'cache_hit_ratio': 16.42, 'query_throughput': 588}",
+    "timestamp": "2025-07-23T15:47:28.864920"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 22.413085162526023, 'memory_usage': 4490.9883127089815, 'cache_hit_ratio': 18.3, 'query_throughput': 936}",
+    "timestamp": "2025-07-23T15:47:29.654527"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 72.19998287105787, 'memory_usage': 6743.656329435413, 'cache_hit_ratio': 18.3, 'query_throughput': 649}",
+    "timestamp": "2025-07-23T15:47:29.815926"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 42.163926932592844, 'memory_usage': 2298.0370803346623, 'cache_hit_ratio': 18.3, 'query_throughput': 187}",
+    "timestamp": "2025-07-23T15:47:30.086250"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 33.716189930972504, 'memory_usage': 4302.124714649996, 'cache_hit_ratio': 16.06, 'query_throughput': 804}",
+    "timestamp": "2025-07-23T15:47:30.473324"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 44.37180529420079, 'memory_usage': 4863.990685070523, 'cache_hit_ratio': 16.06, 'query_throughput': 711}",
+    "timestamp": "2025-07-23T15:47:30.625479"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 17.98238002744408, 'memory_usage': 2069.524402363122, 'cache_hit_ratio': 16.06, 'query_throughput': 931}",
+    "timestamp": "2025-07-23T15:47:30.852285"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 78.16704520621175, 'memory_usage': 5542.651603265323, 'cache_hit_ratio': 16.06, 'query_throughput': 265}",
+    "timestamp": "2025-07-23T15:47:31.028079"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 81.3027297520024, 'memory_usage': 4690.215186554706, 'cache_hit_ratio': 23.21, 'query_throughput': 910}",
+    "timestamp": "2025-07-23T15:47:31.640944"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 14.70705106939901, 'memory_usage': 4646.1782312750365, 'cache_hit_ratio': 23.21, 'query_throughput': 745}",
+    "timestamp": "2025-07-23T15:47:32.077533"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 68.29364432731096, 'memory_usage': 6353.886409575283, 'cache_hit_ratio': 19.56, 'query_throughput': 957}",
+    "timestamp": "2025-07-23T15:47:32.237666"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 42.7334619662187, 'memory_usage': 4865.890055137767, 'cache_hit_ratio': 19.56, 'query_throughput': 306}",
+    "timestamp": "2025-07-23T15:47:32.385312"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 11.454780536684508, 'memory_usage': 1201.2875866038858, 'cache_hit_ratio': 19.56, 'query_throughput': 966}",
+    "timestamp": "2025-07-23T15:47:32.786303"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 55.95767886577474, 'memory_usage': 5086.314407685384, 'cache_hit_ratio': 19.56, 'query_throughput': 676}",
+    "timestamp": "2025-07-23T15:47:33.020319"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 37.87513561243994, 'memory_usage': 3925.0528335183894, 'cache_hit_ratio': 21.97, 'query_throughput': 262}",
+    "timestamp": "2025-07-23T15:47:33.566525"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 67.97365428327227, 'memory_usage': 1963.8947745424616, 'cache_hit_ratio': 21.97, 'query_throughput': 604}",
+    "timestamp": "2025-07-23T15:47:33.726175"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 37.217657162702196, 'memory_usage': 1549.6856043570888, 'cache_hit_ratio': 19.7, 'query_throughput': 325}",
+    "timestamp": "2025-07-23T15:47:34.469297"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 23.998180307680393, 'memory_usage': 3765.196187578546, 'cache_hit_ratio': 19.7, 'query_throughput': 626}",
+    "timestamp": "2025-07-23T15:47:34.617803"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 66.91288491448775, 'memory_usage': 4885.9017460666, 'cache_hit_ratio': 19.7, 'query_throughput': 492}",
+    "timestamp": "2025-07-23T15:47:34.895584"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 45.60916625668448, 'memory_usage': 1249.439845007402, 'cache_hit_ratio': 16.06, 'query_throughput': 133}",
+    "timestamp": "2025-07-23T15:47:35.128561"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 17.56980730382354, 'memory_usage': 6226.485369784395, 'cache_hit_ratio': 16.06, 'query_throughput': 564}",
+    "timestamp": "2025-07-23T15:47:35.257233"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 70.76871118182052, 'memory_usage': 2755.243286626096, 'cache_hit_ratio': 16.06, 'query_throughput': 289}",
+    "timestamp": "2025-07-23T15:47:35.848984"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 42.743498620562825, 'memory_usage': 4124.687976969333, 'cache_hit_ratio': 16.06, 'query_throughput': 812}",
+    "timestamp": "2025-07-23T15:47:36.007654"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 83.32560168016529, 'memory_usage': 7878.500015863979, 'cache_hit_ratio': 19.73, 'query_throughput': 708}",
+    "timestamp": "2025-07-23T15:47:36.239866"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 42.07898330405775, 'memory_usage': 5614.081865711158, 'cache_hit_ratio': 17.95, 'query_throughput': 642}",
+    "timestamp": "2025-07-23T15:47:37.256652"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 69.50652991646706, 'memory_usage': 3288.379626527974, 'cache_hit_ratio': 17.95, 'query_throughput': 686}",
+    "timestamp": "2025-07-23T15:47:37.369677"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 72.5731199106559, 'memory_usage': 5648.634360208786, 'cache_hit_ratio': 17.95, 'query_throughput': 509}",
+    "timestamp": "2025-07-23T15:47:37.557468"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 48.396944230201726, 'memory_usage': 5118.656612534501, 'cache_hit_ratio': 19.31, 'query_throughput': 714}",
+    "timestamp": "2025-07-23T15:47:38.607060"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 38.39139582015675, 'memory_usage': 1597.8870877379813, 'cache_hit_ratio': 9.54, 'query_throughput': 339}",
+    "timestamp": "2025-07-23T15:47:41.223504"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 26.616783739019212, 'memory_usage': 6419.486512119204, 'cache_hit_ratio': 9.54, 'query_throughput': 958}",
+    "timestamp": "2025-07-23T15:47:41.581995"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 23.890797654294467, 'memory_usage': 6390.425275456073, 'cache_hit_ratio': 9.54, 'query_throughput': 766}",
+    "timestamp": "2025-07-23T15:47:41.751624"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 85.18399339514335, 'memory_usage': 6723.719388303887, 'cache_hit_ratio': 26.02, 'query_throughput': 600}",
+    "timestamp": "2025-07-23T15:47:42.520437"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 10.358301539524541, 'memory_usage': 6644.380408151382, 'cache_hit_ratio': 26.02, 'query_throughput': 676}",
+    "timestamp": "2025-07-23T15:47:42.808200"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 64.23098926264508, 'memory_usage': 6453.76557853894, 'cache_hit_ratio': 26.02, 'query_throughput': 510}",
+    "timestamp": "2025-07-23T15:47:43.074053"
+  },
+  {
+    "task": "Retrieve workload metrics",
+    "description": "Metrics collected: {'cpu_usage': 38.66061524843226, 'memory_usage': 4582.371320063615, 'cache_hit_ratio': 13.43, 'query_throughput': 100}",
+    "timestamp": "2025-07-23T15:47:43.249600"
+  }
+]

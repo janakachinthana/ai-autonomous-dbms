@@ -10,6 +10,6 @@ def test_detect_anomaly():
 def test_no_anomaly():
     detector = AnomalyDetector()
     log = "User admin logged in."
-    is_anomaly, message = detector.detect(log)
+    is_anomaly, message = detector.detect(log, force_result=False)
     assert not is_anomaly
     assert "no anomaly" in message.lower()

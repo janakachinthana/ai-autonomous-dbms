@@ -1,0 +1,3292 @@
+[
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeEmail, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:08.579535"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:08.602752"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.InspectionFrequency, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:08.761435"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:08.761435"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportField_17, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:09.095588"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:09.095588"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AppInstallationLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:09.428343"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:09.428343"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ShortUrl, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:09.695061"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:09.703190"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportItem_17, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:10.200227"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:10.200227"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReadyForIntegration, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:10.362353"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:10.362353"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.CleanUpFolderLogging, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:10.561896"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:10.583534"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Inspection, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:11.278573"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:11.295015"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportItemComment_17, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:11.483882"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:11.499815"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantReportTinyLink, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:11.745163"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:11.745163"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AppTrainings, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:11.948107"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:11.948107"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportPhoto_17, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:12.394783"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:12.394783"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmailTracking, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:12.561778"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:12.561778"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.FormattedField, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:12.611954"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:12.611954"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportPhotoComment_17, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:12.928632"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:12.934123"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PSUser, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:13.404768"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:13.418306"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AppTrainingType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:13.495212"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:13.495212"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ServerMonitoringLogs, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:13.864827"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:13.884615"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EntityToFix, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:14.062116"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:14.062116"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmailChecked, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:14.578542"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:14.596589"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AccessPlan, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:14.813636"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:14.829864"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PSUserToken, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:15.135466"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:15.138541"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.HandoverExcitement, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:15.261416"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:15.275106"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.WelcomeScreen, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:15.344786"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:15.352627"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantSignature, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:15.794871"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:15.794871"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeRestGroup, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:15.903049"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:15.903049"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.UserSetting, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:16.194737"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:16.207030"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TestDates, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:16.394700"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:16.394700"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.UserStatus, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:16.444524"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:16.444524"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ListOfAccoutsToDeactiveInCMS1, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:16.645830"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:16.645830"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PaperlessHandoverDocuments, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:17.111403"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:17.111403"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ListOfAccountsToDeactivateNew, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:17.161552"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:17.161552"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportVirtualTour, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:17.477964"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:17.477964"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SFKey, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:17.644569"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:17.644569"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.UserRole, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:17.749962"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:17.751905"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ListOfAccoutsToDeactiveInCMSMerged, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:17.845128"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:17.845128"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.FAQ, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:18.200659"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:18.201655"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportActionLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:18.446155"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:18.446155"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PhonegapReports, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:18.519436"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:18.530338"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.User, Error: ('42000', \"[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'User'. (156) (SQLExecDirectW)\")",
+    "timestamp": "2025-07-23T15:30:19.027670"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': '(\\'42000\\', \"[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword \\'User\\'. (156) (SQLExecDirectW)\")'}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:19.027670"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SPFInfoEmailQue, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:19.193881"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:19.202845"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MigrationError, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:19.278275"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:19.278275"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Ui, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:19.619436"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:19.621328"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PaperlessState, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:19.704778"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:19.711670"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EnsureEncodedPhoto, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:19.828255"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:19.849261"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.UserProfilePicture, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:19.960488"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:19.979171"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmailRequestLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:20.113315"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:20.127439"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.State, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:20.181803"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:20.186266"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.FeaturedPhoto, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:20.237602"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:20.251239"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Inspection_softdel, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:21.164238"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:21.177790"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MergedProperty, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:21.386095"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:21.398178"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SectionType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:21.451131"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:21.451131"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PaperlessGeneralContact, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:21.739275"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:21.748670"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.UserDeviceInformation, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:22.355260"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:22.366244"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SampleTable, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:22.496763"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:22.502680"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantOnLeaseSignature, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:23.053032"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:23.055698"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmailQue2, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:23.901300"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:23.913507"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Inspection_softdel1, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:24.946125"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:24.946125"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportPhotoComment, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:25.098640"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:25.102998"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportPhoto, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:25.365339"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:25.368322"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyLayoutTemplate, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:25.813411"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:25.822152"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.NewAppUser, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:25.933875"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:25.933875"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AppErrorsAcutechService, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:26.096345"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:26.106198"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyManagementSoftware, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:26.183386"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:26.200062"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportItemComment, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:26.447426"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:26.450430"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantSignUpRequest, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:26.697195"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:26.702345"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.NewAppSync, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:26.979614"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:26.979614"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.InspectionFromIE, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:27.736696"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:27.743530"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportItem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:27.933023"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:27.933023"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.InspectionData, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:28.219439"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:28.235114"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.CalendarEvent, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:28.379220"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:28.379220"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MaintenanceRequest, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:28.767423"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:28.767423"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SpfDomainCheck, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:28.929133"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:28.933764"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.DeadlockDetails, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:28.981545"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:28.985657"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportField, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:29.030120"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:29.035212"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SyncDiagnosticLogs, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:29.199820"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:29.201814"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportFolder, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:29.429931"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:29.449104"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmailSignatureForOfficeParent, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:29.856771"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:29.868304"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportItemTenant, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:30.135541"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:30.143514"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Report, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:30.218073"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:30.226515"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportFieldNameMapper, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:30.371194"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:30.378892"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportPhotoTenant, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:30.948022"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:30.961327"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MaintenancePhoto, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:31.184986"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:31.184986"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:31.272304"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:31.284426"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportInFolder, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:31.380226"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:31.393620"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AllowTenantReviewLogging, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:31.596379"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:31.604230"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AdminQueryParameter, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:31.751000"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:31.760162"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportTenant, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:32.129270"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:32.139169"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyLayoutTemplateItemName, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:32.334929"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:32.348380"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyDetail, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:32.573884"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:32.584006"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MaintenanceVideo, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:32.696533"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:32.696533"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AdminQuery, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:32.903740"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:32.911972"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantOnLease, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:33.397589"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:33.405650"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyLayoutTemplateItem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:33.619558"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:33.620609"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantUserToken, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:33.818693"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:33.830883"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.InspectionFromIESyncLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:33.956813"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:33.963979"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeSetting, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:40.209764"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:40.225773"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.sysdiagrams, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:40.430544"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:40.439984"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.LeaseDoc, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:40.813707"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:40.829402"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantOnLeaseVersion, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:41.850820"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:41.850820"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Asset, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:42.884866"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:42.895170"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PaperlessDocsIncludeType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:43.014748"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:43.026255"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantUser, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:43.628853"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:43.646035"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeLocation, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:44.451009"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:44.459468"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyLayoutItemSet, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:44.652935"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:44.663637"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportDamagedInspectionMatrix, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:44.912922"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:44.920261"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantUserStatus, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:45.050601"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:45.052596"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.DeviceInstalltionDate, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:45.267089"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:45.267089"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyLayoutItem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:45.351010"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:45.351010"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.RESTEmailQue, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:45.842764"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:45.848816"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AssetAttachment, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:46.410328"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:46.410328"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.DisclosureFromIE, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:47.092755"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:47.102387"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyLayout, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:47.348109"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:47.367080"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MigratedPropertyLayoutsFromIE, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:51.534451"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:51.545410"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyCustomReportTemplate, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:51.747829"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:51.752851"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.DeviceSpecification, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:52.284973"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:52.293503"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AppUIThemes, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:52.534787"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:52.549378"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PasswordUpdateHistory, Error: Only simple SELECT queries are allowed for analysis.",
+    "timestamp": "2025-07-23T15:30:52.767622"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': 'Only simple SELECT queries are allowed for analysis.'}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:52.783520"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeReportSettingTenant, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:53.648062"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:53.663380"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Property, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:55.009871"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:55.018943"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ChangeTracker, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:55.212442"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:55.219360"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AssetComment, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:55.512999"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:55.519330"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SyncLastRuns, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:55.628963"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:55.645370"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ApiErrorLogging, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:55.828908"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:55.849633"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyLayoutSubitem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:55.995325"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:56.002367"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Office, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:59.059783"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:59.080808"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SuperAdminRequestLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:59.300191"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:59.309921"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SyncLogs, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:30:59.493136"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:30:59.499050"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportKeysheetDataTemp, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:00.160064"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:00.179878"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.InspectionType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:00.230198"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:00.243191"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM betauser.OfficeLogging, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:00.478590"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:00.490324"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SfMigrationLogs, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:00.685508"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:00.700958"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmailDomainReplace, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:00.900643"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:00.909126"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.InspectionStatus, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:01.000539"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:01.018003"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SyncProcess, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:01.451163"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:01.458833"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyDocuments, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:02.111097"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:02.118472"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantChangeLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:02.364742"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:02.368743"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AutoSyncRestOffice, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:02.551929"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:02.560696"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantUserProfileImage, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:02.783342"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:02.799803"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReCleanInspection, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:02.998293"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:03.017604"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.VirtualTour, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:03.508735"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:03.510602"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.CustomReportTemplate, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:03.692180"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:03.700617"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.tempPropertySubItem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:03.925633"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:03.935262"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TempReportSettingLogs, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:04.269982"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:04.276147"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmailTemplate, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:04.732943"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:04.743026"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Signatures, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:05.159695"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:05.167412"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PreSavedOfficeReportSetting, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:05.930676"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:05.949836"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MigratedPropertyLayoutsFromIELutwyche, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:08.600825"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:08.612548"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TriggerLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:08.858479"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:08.865203"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TAIReminderSentInspection, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:08.995923"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:09.010749"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.VersionCheck, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:09.220254"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:09.233056"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Emails, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:09.597263"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:09.601206"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MigratedPropertyLayoutsFromIEAscot, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:13.192639"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:13.192639"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ProgressPropertyImport, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:13.295160"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:13.311887"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TempReportSetting, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:13.827924"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:13.834766"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyActiveStatus, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:13.884464"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:13.900380"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Logs.CrossDomainServiceErrorLog, Error: ('42S02', \"[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid object name 'dbo.Logs.CrossDomainServiceErrorLog'. (208) (SQLExecDirectW)\")",
+    "timestamp": "2025-07-23T15:31:13.981690"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': '(\\'42S02\\', \"[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid object name \\'dbo.Logs.CrossDomainServiceErrorLog\\'. (208) (SQLExecDirectW)\")'}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:13.989282"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.RedisCacheTest, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:14.064931"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:14.079128"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PaperlessRemainderEmailLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:14.408231"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:14.415522"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.UserNotification, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:14.793444"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:14.816867"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.DeviceTypes, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:14.932067"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:14.941532"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PreSaveReportFieldNameMapper, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:15.109300"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:15.128428"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportSettingEmailQue, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:15.414242"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:15.432888"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyPetPhoto, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:15.632997"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:15.641252"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PTSyncNotesLogging, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:15.844450"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:15.850439"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.CMSTheme, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:16.011316"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:16.025010"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ConditionCode, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:16.196153"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:16.214450"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.UserProfileImage, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:16.344367"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:16.362635"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.CloudPhoto, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:16.399999"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:16.415310"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.VirtualTourLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:16.710306"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:16.710306"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantPortalLogging, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:17.094755"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:17.114422"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.RestTicket, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:17.228632"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:17.233792"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AI360InspectionsSettingChangedLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:17.727375"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:17.741584"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.LogSetting, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:17.927072"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:17.945874"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyPhoto, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:18.076899"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:18.080889"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TAIEmailRequestLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:18.410788"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:18.410788"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.CloudReport, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:18.876846"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:18.897986"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeDKIMInfo, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:19.066103"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:19.098783"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeTrustSystemData, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:19.600645"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:19.610906"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SalesforceAPIToken, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:19.667650"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:19.677735"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PerfomanceLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:19.876403"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:19.881046"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportCoverPage, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:20.631856"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:20.632841"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.CleanUpFolder, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:20.810759"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:20.830741"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportPageCount, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:20.994003"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:20.999025"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ChangeLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:21.543915"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:21.564212"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AutoSyncLogs, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:21.871607"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:21.883220"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.RequestLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:21.976565"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:21.991081"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AutoLogOutTime, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:22.059967"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:22.077401"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AllowTenantReviewSwitchLogging, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:22.343913"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:22.343913"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmailType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:22.408845"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:22.431892"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeLayoutResetQueue, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:22.698013"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:22.709022"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Country, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:23.010971"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:23.026455"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.InspectionFrequencyType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:23.167111"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:23.177527"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Dictionary, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:23.241144"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:23.244273"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MissingIndex, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:23.460307"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:23.481701"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.VirtualImage, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:23.748141"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:23.761241"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PanicSetting, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:23.965805"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:23.975462"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PaperlessTermsAndCondition, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:24.372387"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:24.382238"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MaintenanceComments, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:24.609948"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:24.616286"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.InspectionStatusLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:24.888257"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:24.897860"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.DictionaryType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:25.049670"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:25.066114"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyLandlord, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:25.398775"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:25.407861"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.NewPasswordWizard, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:25.493435"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:25.510764"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.S3UploadOperationErrorLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:25.641237"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:25.649647"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportSetting, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:25.893990"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:25.907723"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyLayoutTemplateSubItems, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:26.093994"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:26.098819"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantSignedDocument, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:26.277469"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:26.280146"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.VirtualImageNote, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:26.547333"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:26.560526"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ActivationPopupTrack, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:26.810383"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:26.810383"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.CountryState, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:26.927442"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:26.947526"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.BAndAUniqueID, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:27.159993"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:27.174432"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportInspection, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:27.983188"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:27.999411"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeLayoutItem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:28.127249"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:28.143152"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyOverviewVideo, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:28.360994"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:28.366163"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.BetaProgram, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:28.461194"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:28.466459"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportSyncLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:28.610460"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:28.625419"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.RoutineCompletedEmailData, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:28.963443"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:28.984403"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.VirtualPathWay, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:29.427363"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:29.441102"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantPortalReportLock, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:29.632551"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:29.641953"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SFSyncLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:29.899325"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:29.910703"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeDetail, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:30.043691"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:30.059721"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportItemType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:30.312060"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:30.326341"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.RestLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:30.910474"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:30.910474"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.BetaCampaign, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:31.544153"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:31.549504"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.InspectionDeleteLog, Error: Only simple SELECT queries are allowed for analysis.",
+    "timestamp": "2025-07-23T15:31:31.655373"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 0, 'estimated_rows': 0, 'has_join': False, 'error': 'Only simple SELECT queries are allowed for analysis.'}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:31.677312"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeLayoutSubItem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:31.810754"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:31.832589"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ErrorOnStack, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:31.943706"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:31.943706"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.DefaultSortField, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:32.012482"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:32.015528"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AIFeedBack, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:32.266573"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:32.279243"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PreSavedOfficeReportSettingTenant, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:32.710370"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:32.716863"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportProperty, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:33.830429"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:33.849727"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeColourSettings, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:34.195270"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:34.195270"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportsToMigrate, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:34.426644"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:34.426644"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmailScheduleQue, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:35.240672"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:35.248158"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.RoutineInspectionSchedule, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:35.661586"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:35.681274"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.BetaGroup, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:35.800042"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:35.827002"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AIFeedBackSectionType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:35.912152"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:35.928540"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.RestEmailReciever, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:36.133519"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:36.143733"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.CachedReports, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:36.261263"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:36.290710"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertySubItem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:36.331992"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:36.340355"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmailSignature, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:36.597290"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:36.607274"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:36.699141"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:36.714576"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.BetaGroupParticipants, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:36.899467"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:36.907805"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyLocationManager, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:37.307219"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:37.315531"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ClearedWaitQueries, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:37.458258"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:37.458258"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AuditTrail, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:37.830283"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:37.849637"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeLayoutResetQueueErrorLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:38.098881"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:38.107761"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TimeZone, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:38.278685"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:38.280680"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantSignOffRequest, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:38.464838"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:38.482003"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SeenWizard, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:38.591280"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:38.612399"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportOnServer, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:38.691591"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:38.703353"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Query, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:38.814317"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:38.824553"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.BetaInvite, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:38.948840"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:38.964418"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ResetProperty, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:39.031878"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:39.048347"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmergencyContactType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:39.108038"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:39.121582"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.UserToken, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:39.430266"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:39.446570"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.CloudPDF, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:39.743604"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:39.746664"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantRequestLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:40.006892"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:40.015694"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Tenant, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:41.226950"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:41.242085"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmergencyContact, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:42.032568"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:42.066335"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyLocation, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:42.880283"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:42.894377"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeRestDetail, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:43.293078"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:43.293078"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Notification, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:44.299444"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:44.309924"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeLogoUpload, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:44.782671"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:44.798899"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantVersion, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:45.019540"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:45.025596"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeGlobalSubItem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:45.297796"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:45.309893"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeNewSignatureElement, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:45.809833"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:45.824601"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeParentGroup, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:46.864985"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:46.880921"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OldAppUser, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:47.163380"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:47.173400"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AutoCloseTryLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:47.480018"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:47.491156"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportFieldType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:48.100285"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:48.112078"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OldAppSync, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:48.413276"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:48.414276"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SystemEmailQue, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:49.173526"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:49.181579"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.EmailQue, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:50.209480"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:50.232051"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.BetaEmailTemplate, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:50.349022"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:50.364990"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MergeInspectionLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:50.847286"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:50.864044"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportEditLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:51.292806"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:51.310299"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportVideo, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:51.814198"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:51.826567"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SendKeysheetToTenant, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:52.523199"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:52.532021"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeLayoutSuggestedItem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:52.825535"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:52.849866"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyItem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:52.994588"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:52.997670"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.InspectionsToRestore, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:53.298302"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:53.308744"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantActionRequestComment, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:53.515638"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:53.526439"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.InsightsEnableOffices, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:53.732095"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:53.747414"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MaintenanceStatus, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:53.796319"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:53.814215"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MigratedInspection, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:54.214772"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:54.227602"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeContainer, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:54.609096"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:54.628822"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.MaintenanceStatusLogMaintenanceStatusLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:55.160226"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:55.164413"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.UserDevices, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:55.292526"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:55.308764"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.VirtualSensitiveSpotImage, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:55.539754"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:55.547518"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ErrorLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:55.846651"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:55.864665"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TradeType, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:56.046776"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:56.048777"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.CMSBootstrap, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:56.508500"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:56.524413"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.BetaCampaignParticipants, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:57.329176"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:57.345253"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ErrorLogDetail, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:57.477670"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:57.495331"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.UserToken_16_05, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:57.726064"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:57.743764"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TenantAssistedInspectionURL, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:58.109367"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:58.114176"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.Frequency, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:58.274775"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:58.298127"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.GlobalLayoutSuggestedItem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:58.494221"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:58.498159"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.AutoRestEmail, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:58.630488"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:58.647433"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyInspectionCoverPhotos, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:59.225780"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:59.246800"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.GenericHttpRequestLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:59.665113"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:59.676115"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertyEditStatus, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:31:59.793780"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:31:59.811522"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeLayout, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:00.043089"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:00.048794"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.UserSignature, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:00.480178"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:00.492544"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportVideoComment, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:00.741817"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:00.756365"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PaperlessBasicTermsAndCondition, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:01.311661"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:01.314644"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.GlobalLayout, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:01.459519"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:01.463002"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.InspectionsFromHTHA, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:02.342329"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:02.391764"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.TAISyncLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:02.559245"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:02.581498"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SFNewAPILog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:02.828917"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:02.839531"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.UserToken_12_16, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:03.027843"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:03.045525"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.PropertiesFromBnA, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:03.153514"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:03.164726"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.IMLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:03.843223"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:03.845197"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.SpAuthorizeLog, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:03.975468"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:03.995213"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.GlobalLayoutItem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:04.408803"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:04.412915"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.UserFilters, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:05.392009"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:05.392009"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportsOnReportServer, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:05.495730"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:05.506189"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.GlobalLayoutSubItem, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:05.675345"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:05.692525"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeReportSetting, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:06.739302"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:06.741588"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeReportSettingCommercial, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:09.366144"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:09.378344"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.VideoThumbnailLogging, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:09.673562"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:09.695004"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportSection, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:09.811826"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:09.825296"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.CloudPhoto_17, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:10.458087"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:10.469529"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.VideoLogging, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:10.781754"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:10.791969"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.ReportTemplate, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:11.013920"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:11.025535"
+  },
+  {
+    "task": "Analyze query",
+    "description": "Query: SELECT * FROM dbo.OfficeLogging, Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}",
+    "timestamp": "2025-07-23T15:32:11.272796"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 2, 'estimated_rows': 0, 'has_join': False}, Predicted Plan: Sequential Scan Plan",
+    "timestamp": "2025-07-23T15:32:11.272796"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 9, 'estimated_rows': 1000, 'has_join': True}, Predicted Plan: Hash Join Plan",
+    "timestamp": "2025-07-23T15:32:12.576552"
+  },
+  {
+    "task": "Predict plan",
+    "description": "Features: {'complexity': 3, 'estimated_rows': 9000, 'has_join': False}, Predicted Plan: Index Scan Plan",
+    "timestamp": "2025-07-23T15:32:12.593827"
+  }
+]

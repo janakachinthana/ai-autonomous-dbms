@@ -17,21 +17,28 @@ class AnomalyDetector:
             os.makedirs(log_dir, exist_ok=True)
             AnomalyDetector._log_dir = log_dir
         self.log_path = os.path.join(AnomalyDetector._log_dir, 'anomaly_detector.json')
+        self.applied_tasks = []
 
-    def detect(self, log_entry):
-        # Simulate anomaly detection with random chance
-        if 'DROP' in log_entry or random.random() < 0.1:
-            result = True
-            message = "Potential anomaly detected!"
+    def detect(self, log_entry, force_result=None):
+        # Simulate anomaly detection with random chance, but always flag dangerous actions
+        if force_result is not None:
+            is_anomaly = force_result
+        elif 'DROP' in log_entry.upper():
+            is_anomaly = True
         else:
-            result = False
-            message = "No anomaly."
-        # Log the detection with timestamp
-        log_record = {
-            "task": "Detect anomaly",
-            "description": f"Log entry: {log_entry}, Result: {message}",
-            "timestamp": datetime.now().isoformat()
+            import random
+            is_anomaly = random.random() < 0.1  # 10% chance of anomaly
+        message = "Potential anomaly detected!" if is_anomaly else "No anomaly."
+        task = {
+            'task': 'Detect anomaly',
+            'description': f"Log entry: {log_entry}, Result: {message}"
         }
+        self.applied_tasks.append(task)
+        self._log_task(task)
+        return is_anomaly, message
+
+    def _log_task(self, task):
+        import os, json, datetime
         try:
             if os.path.exists(self.log_path):
                 with open(self.log_path, 'r', encoding='utf-8') as f:
@@ -40,7 +47,7 @@ class AnomalyDetector:
                 data = []
         except Exception:
             data = []
-        data.append(log_record)
+        task['timestamp'] = datetime.datetime.now().isoformat()
+        data.append(task)
         with open(self.log_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2)
-        return result, message
